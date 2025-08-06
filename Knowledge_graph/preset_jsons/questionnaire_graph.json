@@ -1,0 +1,1148 @@
+{
+    "nodes": [
+        {
+            "id": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "label": [
+                "事件",
+                "健康问卷"
+            ],
+            "properties": {
+                "name": "健康状况问卷",
+                "json_link": "dataset/test_user_data/health_questionnaire.json",
+                "time": "2025-05-20"
+            }
+        },
+        {
+            "id": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "label": [
+                "维度",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "基本信息"
+            }
+        },
+        {
+            "id": "d598227b-aec6-439c-baff-13d274e05bda",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "年龄12岁"
+            }
+        },
+        {
+            "id": "33a7d07d-2af4-46bf-ba52-ab52917f0e89",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "男性"
+            }
+        },
+        {
+            "id": "1eb09d80-821b-4531-8d22-c6456ec0002c",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "身高123cm"
+            }
+        },
+        {
+            "id": "b41a434f-b099-46bf-8f27-46ec9fe8c367",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "体重22kg"
+            }
+        },
+        {
+            "id": "9b95aab3-0e08-4f27-b0e7-b7680f6971d5",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "腰围30cm"
+            }
+        },
+        {
+            "id": "bc99d180-f56b-4365-bf74-a5db078b74f5",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "居住在南方农村"
+            }
+        },
+        {
+            "id": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "label": [
+                "维度",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "近期身体状况"
+            }
+        },
+        {
+            "id": "ad17e8e3-ab17-4311-8475-840b37efb79f",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常感到疲劳"
+            }
+        },
+        {
+            "id": "93d3c4b7-4ff6-486a-9a48-254961a92b47",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "记忆力下降注意力不集中"
+            }
+        },
+        {
+            "id": "11ffcbf4-9f0f-44e9-9b93-b84e54042423",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "情绪焦虑睡眠不佳"
+            }
+        },
+        {
+            "id": "b027d6be-def5-4c0c-bce6-78c8b3f0f66c",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "食欲味觉下降"
+            }
+        },
+        {
+            "id": "9daf0199-be3e-4a2b-ab1b-75b5f46dc311",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "容易感冒感染"
+            }
+        },
+        {
+            "id": "edcba659-08c5-4fb5-a0ce-252b3384fb18",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "脱发头发干枯"
+            }
+        },
+        {
+            "id": "829c434d-0eb4-49ae-ad22-db3e16189b31",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "指甲易断裂有异常"
+            }
+        },
+        {
+            "id": "6a41c24e-eef2-49ce-b294-93339cf5cb6f",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "皮肤干燥粗糙"
+            }
+        },
+        {
+            "id": "c71368ea-b9d6-4fb2-93a8-ffa5d935f678",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "伤口愈合慢易淤青"
+            }
+        },
+        {
+            "id": "5ce8f3c9-58e9-42cc-9df6-48cb779ad19a",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常腹胀消化不良"
+            }
+        },
+        {
+            "id": "5485f066-9f25-4101-ba5b-4dec0c307d71",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有便秘或腹泻问题"
+            }
+        },
+        {
+            "id": "a6655864-4284-4643-a38d-ef3c4ec1481d",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "口腔溃疡反复出现"
+            }
+        },
+        {
+            "id": "88a25099-263d-481e-876d-df37ee783121",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有肌肉痉挛抽筋"
+            }
+        },
+        {
+            "id": "7523aa8d-7c4c-41a5-9bc0-cd52ac52d553",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "肌肉酸痛无力"
+            }
+        },
+        {
+            "id": "5d897e96-b61e-4292-90bd-acb303016924",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节疼痛或骨质疏松"
+            }
+        },
+        {
+            "id": "612b40c0-5e1f-4253-96be-7aa9a98c660e",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "处于哺乳期"
+            }
+        },
+        {
+            "id": "9ad7b359-0453-4b7e-adf3-77079ce91c7d",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常感到疲劳"
+            }
+        },
+        {
+            "id": "328affc6-ae23-45d4-80d5-df7ead33ab85",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "夜间视力差畏光"
+            }
+        },
+        {
+            "id": "12e2939a-7545-4fcc-817f-870c140f41d4",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "视物模糊老花加重"
+            }
+        },
+        {
+            "id": "2b2c9a23-a005-4dd2-aa65-56b3edc0df46",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节疼痛或骨质疏松"
+            }
+        },
+        {
+            "id": "bcf0769e-92c3-498c-a290-99580f72d5fb",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节酸痛僵硬"
+            }
+        },
+        {
+            "id": "a0be134b-09d7-4dc3-aebc-e957c95d2b24",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有骨裂骨折史"
+            }
+        },
+        {
+            "id": "0bb81fe0-776f-4df6-8231-570d63b0ade1",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有心血管问题"
+            }
+        },
+        {
+            "id": "c77e781c-1e7f-43ce-8c8b-06fc455b2f23",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有心慌胸闷乏力"
+            }
+        },
+        {
+            "id": "6e80c2ac-fa38-4ca9-afbc-2041689ba1d8",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "收缩压89mmHg"
+            }
+        },
+        {
+            "id": "9c909f57-96b1-43b0-b61c-be6c5d8a6a9b",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "舒张压89mmHg"
+            }
+        },
+        {
+            "id": "62ef49ec-0c0f-4199-a59c-15f815ffc1d3",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有动脉粥样硬化、缺血性心肌病、快速型心律失常、缓慢型心律失常"
+            }
+        },
+        {
+            "id": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "label": [
+                "维度",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "生活习惯"
+            }
+        },
+        {
+            "id": "73392599-f809-44c6-b7c5-0cc152ae9022",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "饮食纯素食"
+            }
+        },
+        {
+            "id": "062213dd-6473-4d60-bcc6-f225ff9b1d1a",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "用餐自烹或家庭用餐为主"
+            }
+        },
+        {
+            "id": "810b7a9c-1664-40f2-ad52-1461442d7556",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "口味偏咸"
+            }
+        },
+        {
+            "id": "92dae402-54a0-4626-aafd-466b51ac7c9d",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "进餐规律"
+            }
+        },
+        {
+            "id": "dfeeb892-df82-4ce9-9a7a-d728b733b241",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常控制食量"
+            }
+        },
+        {
+            "id": "75faca48-97e2-4c5e-9200-56a01d3deb9a",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "主食摄入几乎不吃"
+            }
+        },
+        {
+            "id": "45ae154c-c1fa-47ea-b733-bb9499adc2e9",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "粗纤维食物几乎不吃"
+            }
+        },
+        {
+            "id": "582f6302-3ce2-4317-aab7-367677f81e45",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "肉类摄入几乎不吃"
+            }
+        },
+        {
+            "id": "991985ff-2e1d-4e6c-8b1d-e33421068ec4",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "动物内脏每周 1–3 次"
+            }
+        },
+        {
+            "id": "d7dbe7f6-6ad8-4e2a-b474-758ac5b7bb4f",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "淡水鱼虾偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "71efdbc9-aea8-4f84-a5ff-7a755ee4c04c",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "海产品偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "4fab02a4-2ec6-4d14-bc96-e754cd3f700e",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "鸡蛋几乎不吃"
+            }
+        },
+        {
+            "id": "d0bdb2dd-1977-4bd1-b0e8-7f697586f9cb",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "豆制品偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "ead89722-f237-4687-a8c5-195da5edc26e",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "奶制品几乎不喝"
+            }
+        },
+        {
+            "id": "654f7bac-a533-4347-8527-ba49d225bfa1",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "绿叶蔬菜几乎不吃"
+            }
+        },
+        {
+            "id": "8a3b4152-d665-41d4-ae0b-62aabb10cce8",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "新鲜水果几乎不吃"
+            }
+        },
+        {
+            "id": "14c6b996-5c6c-4291-94a5-4ca20032ce64",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常吃咸菜、加工食品（香肠、方便面等）、烧烤食品、甜食（蛋糕、甜点、蜜饯等）、膨化食品（薯片、薯条等）、油炸食品（炸鸡、炸串、油条等）"
+            }
+        },
+        {
+            "id": "adc9c44b-db3f-42d4-8b0f-af9966cdccd5",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "每天饮水4-6杯(1-1.5L)"
+            }
+        },
+        {
+            "id": "bda87750-3f4b-4613-b806-8a4e5bc7efa9",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "主要饮品是奶茶、咖啡、茶"
+            }
+        },
+        {
+            "id": "b7826c69-b11a-40b6-a8b1-626f01c447dc",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "吸烟每周少于1包烟"
+            }
+        },
+        {
+            "id": "05ba8f23-41d3-476c-b0e6-e1305fda8d0c",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "喝酒几乎天天喝酒"
+            }
+        },
+        {
+            "id": "afb4ca18-b430-4c2e-a936-917370b52b95",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常接触二手烟"
+            }
+        },
+        {
+            "id": "c26613ef-9acf-458f-9102-ac1ff0c151a4",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "运动很少运动"
+            }
+        },
+        {
+            "id": "5396b4cd-c776-4603-a9d7-0760809a2294",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "运动强度中度"
+            }
+        },
+        {
+            "id": "0f3a98b7-0755-4ad6-9cef-a072c09c9c38",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "情绪稳定睡眠良好"
+            }
+        },
+        {
+            "id": "5e37ba46-e51b-48f3-8b75-7d63703e7602",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "情绪稳定睡眠良好"
+            }
+        },
+        {
+            "id": "466c0804-63a5-43e0-a6a7-9ec25557f6a5",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "不服用营养补充剂"
+            }
+        },
+        {
+            "id": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "label": [
+                "维度",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "健康背景"
+            }
+        },
+        {
+            "id": "83327ee7-3318-48ea-8d7a-5d1b8bf1b9ca",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "有高血脂、高血压"
+            }
+        },
+        {
+            "id": "84b8b8b4-dea7-414a-b978-abeec4a7a7f1",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "长期服用利尿剂、降压药"
+            }
+        },
+        {
+            "id": "7121e0fd-e4fa-4ab4-8837-a98f3948ccb1",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "对紫外线、大豆过敏"
+            }
+        },
+        {
+            "id": "f04bde6c-5a41-4314-ad63-11f183c621c2",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "缺乏钙、铁、硒"
+            }
+        },
+        {
+            "id": "113d87dc-9f68-4378-9659-30d322d20bff",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "家族有糖尿病、神经系统疾病（如老年痴呆、帕金森等）"
+            }
+        },
+        {
+            "id": "5e5b77d6-1eaa-4af6-9143-948cc71c3536",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "体质易胖易肿"
+            }
+        },
+        {
+            "id": "1180b2bc-79b4-48be-b132-d95a5a6d240e",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "性功能下降"
+            }
+        },
+        {
+            "id": "89d263f6-c9a7-4012-bbd0-f0ee2a167963",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "身体有增生囊肿结节"
+            }
+        },
+        {
+            "id": "8077d68c-1fa1-44c9-ae9a-70048ecb7930",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "慢性胃炎"
+            }
+        },
+        {
+            "id": "79f6ff7f-1c83-4c68-8e55-860a4433e8dc",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "对荨麻疹过敏"
+            }
+        },
+        {
+            "id": "f31dd929-1fc0-42e9-b8bd-7bf5a78158f3",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "类风湿关节炎"
+            }
+        }
+    ],
+    "relationships": [
+        {
+            "source": "49a9fa2c-6a43-4f2a-af05-b306dcd602c7",
+            "target": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "type": "经历了"
+        },
+        {
+            "source": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "target": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "d598227b-aec6-439c-baff-13d274e05bda",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "33a7d07d-2af4-46bf-ba52-ab52917f0e89",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "1eb09d80-821b-4531-8d22-c6456ec0002c",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "b41a434f-b099-46bf-8f27-46ec9fe8c367",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "9b95aab3-0e08-4f27-b0e7-b7680f6971d5",
+            "type": "包含"
+        },
+        {
+            "source": "7310be0a-622d-4fa6-a2bd-c2227e6a0b60",
+            "target": "bc99d180-f56b-4365-bf74-a5db078b74f5",
+            "type": "包含"
+        },
+        {
+            "source": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "target": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "ad17e8e3-ab17-4311-8475-840b37efb79f",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "93d3c4b7-4ff6-486a-9a48-254961a92b47",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "11ffcbf4-9f0f-44e9-9b93-b84e54042423",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "b027d6be-def5-4c0c-bce6-78c8b3f0f66c",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "9daf0199-be3e-4a2b-ab1b-75b5f46dc311",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "edcba659-08c5-4fb5-a0ce-252b3384fb18",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "829c434d-0eb4-49ae-ad22-db3e16189b31",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "6a41c24e-eef2-49ce-b294-93339cf5cb6f",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "c71368ea-b9d6-4fb2-93a8-ffa5d935f678",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "5ce8f3c9-58e9-42cc-9df6-48cb779ad19a",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "5485f066-9f25-4101-ba5b-4dec0c307d71",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "a6655864-4284-4643-a38d-ef3c4ec1481d",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "88a25099-263d-481e-876d-df37ee783121",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "7523aa8d-7c4c-41a5-9bc0-cd52ac52d553",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "5d897e96-b61e-4292-90bd-acb303016924",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "612b40c0-5e1f-4253-96be-7aa9a98c660e",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "9ad7b359-0453-4b7e-adf3-77079ce91c7d",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "328affc6-ae23-45d4-80d5-df7ead33ab85",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "12e2939a-7545-4fcc-817f-870c140f41d4",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "2b2c9a23-a005-4dd2-aa65-56b3edc0df46",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "bcf0769e-92c3-498c-a290-99580f72d5fb",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "a0be134b-09d7-4dc3-aebc-e957c95d2b24",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "0bb81fe0-776f-4df6-8231-570d63b0ade1",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "c77e781c-1e7f-43ce-8c8b-06fc455b2f23",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "6e80c2ac-fa38-4ca9-afbc-2041689ba1d8",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "9c909f57-96b1-43b0-b61c-be6c5d8a6a9b",
+            "type": "包含"
+        },
+        {
+            "source": "0c5b529c-0e7c-4400-af4c-01ecfcf679f3",
+            "target": "62ef49ec-0c0f-4199-a59c-15f815ffc1d3",
+            "type": "包含"
+        },
+        {
+            "source": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "target": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "73392599-f809-44c6-b7c5-0cc152ae9022",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "062213dd-6473-4d60-bcc6-f225ff9b1d1a",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "810b7a9c-1664-40f2-ad52-1461442d7556",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "92dae402-54a0-4626-aafd-466b51ac7c9d",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "dfeeb892-df82-4ce9-9a7a-d728b733b241",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "75faca48-97e2-4c5e-9200-56a01d3deb9a",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "45ae154c-c1fa-47ea-b733-bb9499adc2e9",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "582f6302-3ce2-4317-aab7-367677f81e45",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "991985ff-2e1d-4e6c-8b1d-e33421068ec4",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "d7dbe7f6-6ad8-4e2a-b474-758ac5b7bb4f",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "71efdbc9-aea8-4f84-a5ff-7a755ee4c04c",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "4fab02a4-2ec6-4d14-bc96-e754cd3f700e",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "d0bdb2dd-1977-4bd1-b0e8-7f697586f9cb",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "ead89722-f237-4687-a8c5-195da5edc26e",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "654f7bac-a533-4347-8527-ba49d225bfa1",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "8a3b4152-d665-41d4-ae0b-62aabb10cce8",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "14c6b996-5c6c-4291-94a5-4ca20032ce64",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "adc9c44b-db3f-42d4-8b0f-af9966cdccd5",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "bda87750-3f4b-4613-b806-8a4e5bc7efa9",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "b7826c69-b11a-40b6-a8b1-626f01c447dc",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "05ba8f23-41d3-476c-b0e6-e1305fda8d0c",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "afb4ca18-b430-4c2e-a936-917370b52b95",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "c26613ef-9acf-458f-9102-ac1ff0c151a4",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "5396b4cd-c776-4603-a9d7-0760809a2294",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "0f3a98b7-0755-4ad6-9cef-a072c09c9c38",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "5e37ba46-e51b-48f3-8b75-7d63703e7602",
+            "type": "包含"
+        },
+        {
+            "source": "1b281d4d-ebbd-40d7-ac22-de111f6a1585",
+            "target": "466c0804-63a5-43e0-a6a7-9ec25557f6a5",
+            "type": "包含"
+        },
+        {
+            "source": "fc53dd22-e9db-40aa-a574-9dec280bbe56",
+            "target": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "83327ee7-3318-48ea-8d7a-5d1b8bf1b9ca",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "84b8b8b4-dea7-414a-b978-abeec4a7a7f1",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "7121e0fd-e4fa-4ab4-8837-a98f3948ccb1",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "f04bde6c-5a41-4314-ad63-11f183c621c2",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "113d87dc-9f68-4378-9659-30d322d20bff",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "5e5b77d6-1eaa-4af6-9143-948cc71c3536",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "1180b2bc-79b4-48be-b132-d95a5a6d240e",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "89d263f6-c9a7-4012-bbd0-f0ee2a167963",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "8077d68c-1fa1-44c9-ae9a-70048ecb7930",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "79f6ff7f-1c83-4c68-8e55-860a4433e8dc",
+            "type": "包含"
+        },
+        {
+            "source": "563bfecd-d4b0-468a-ad0f-e4ccc8dc3ae5",
+            "target": "f31dd929-1fc0-42e9-b8bd-7bf5a78158f3",
+            "type": "包含"
+        }
+    ]
+}

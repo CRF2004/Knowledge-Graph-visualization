@@ -1,0 +1,5725 @@
+{
+    "nodes": [
+        {
+            "id": "49a9fa2c-6a43-4f2a-af05-b306dcd602c7",
+            "label": "受检人",
+            "properties": {
+                "name": "个人1"
+            }
+        },
+        {
+            "id": "0da1aa8b-a0ed-455e-ac54-bbd87cbfdd34",
+            "label": "体检",
+            "properties": {
+                "time": "2025-5-10",
+                "json_link": "dataset/res_all_all/个人健康体检报告_2405160528_/个人健康体检报告_2405160528_.json"
+            }
+        },
+        {
+            "id": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "label": "体检大类",
+            "properties": {
+                "time": "2025-5-10",
+                "json_link": "dataset/res_all_all/个人健康体检报告_2405160528_/个人健康体检报告_2405160528_.json"
+            }
+        },
+        {
+            "id": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "label": "体检大类",
+            "properties": {
+                "name": "内科普检+康复评定",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "69ed18cb-ae43-4d45-b0e0-31b458a71467",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "皮肤",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b81e0f71-aa8c-41cd-8172-7ec4e422723b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "既往病史",
+                "result": "无",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "4da57ec8-426c-40dd-bdd4-44e8ce052ab4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肺",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "a4d8847d-1744-4074-8418-a13a97dd5b33",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肝",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1b9a364a-9d0b-4988-aaa7-7877fd159c7f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "神经系统",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d8bf9934-e584-4d36-8ee0-f073d198d674",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "脊柱四肢关节",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "17399f4f-2c7a-4f66-ba58-d58afb6f73d4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肌力",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6dbd8430-593d-4d3c-ac25-506046c40556",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肌张力",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "491c0b64-bb07-4ef1-a843-46fd0a7ba40c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "浅感觉",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f82ffac5-0606-4e00-8b12-453d81167130",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "深感觉",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5f634aa7-7a09-4bfa-9200-9004a7c10d6e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "浅反射",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6e573970-61e8-4ccb-ae3e-03600a12fd41",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "深反射",
+                "result": "正常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "a01783ff-ea1e-4c32-8ffb-634772d854f2",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "压痛",
+                "result": "无",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2f2c4f5a-101a-4cea-b4b1-8ec9781a6ae2",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "病理反射",
+                "result": "未引出",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f783b55a-8011-4c2d-9133-c717d6f5dcf4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "活动",
+                "result": "自如",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "95c3360a-37be-4d54-be25-c34501e43f61",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "结论",
+                "result": "未见异常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6726c7cd-7585-4a9d-9a0d-59941ab70edc",
+            "label": "体检大类",
+            "properties": {
+                "name": "心电图(体检中心)",
+                "hint": "1.窦性心律\n2.心电图正常范围"
+            }
+        },
+        {
+            "id": "f93106f3-fbad-4f3a-b270-88fa1c8d647f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "心电图",
+                "result": "1.窦性心律\n2.心电图正常范围",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6fac5d8c-59f6-418c-9744-c55a124a728e",
+            "label": "体检大类",
+            "properties": {
+                "name": "幽门螺旋杆菌检查(体检)",
+                "hint": "(1)幽门螺杆菌++"
+            }
+        },
+        {
+            "id": "88de0a63-9851-4e1b-9248-09218922c811",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "幽门螺旋杆菌检查(体 检)",
+                "result": "阳性++980",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "754b4f4e-2cf7-4de9-a7da-46a47910db22",
+            "label": "体检大类",
+            "properties": {
+                "name": "建立健康档案"
+            }
+        },
+        {
+            "id": "1b56ff31-a945-4661-a1a8-2dd2ca8692c3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "建立健康档案",
+                "result": "完成",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2f872802-9ab8-4c37-a755-16657e7d3e9c",
+            "label": "体检大类",
+            "properties": {
+                "name": "动脉硬化测定",
+                "hint": "双侧外周动脉僵硬度增高"
+            }
+        },
+        {
+            "id": "9f82871a-c682-4168-a5f2-85c84e4147b7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "动脉硬化测定",
+                "result": "双侧外周动脉僵硬度增高",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "label": "体检大类",
+            "properties": {
+                "name": "一般体格体检",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "f40fcb14-cc91-4a3d-a2d2-c9b70dfbf51e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "身高",
+                "result": "148",
+                "unit": "cm",
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "4a24c107-b7f5-4c1d-a160-5dfd4a9a2a79",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "体重",
+                "result": "50",
+                "unit": "kg",
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7aa96291-b045-406f-88cc-677e6327680a",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "脉搏",
+                "result": "78",
+                "unit": "次/分",
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "14f247d5-bd89-4c9c-9702-4e7ab0c91642",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血压",
+                "result": "128/68",
+                "unit": "mmhg",
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "263b59b7-edc6-4125-87f8-5c0bb7e98961",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "视力左",
+                "result": "4.8",
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c2a3823b-dac2-4840-b8a6-01f89c4620c7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "视力右",
+                "result": "4.8",
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d4245316-3501-4212-a71f-8b103a62ffe9",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "矫正视力左",
+                "result": null,
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f6fb5d6b-d346-4685-aeda-1336b2002323",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "矫正视力右",
+                "result": null,
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d5bf6076-2c17-47b0-a4bf-4ece347b4f1d",
+            "label": "体检大类",
+            "properties": {
+                "name": "肺功能检测",
+                "hint": "肺通气功能正常,弥散功能轻度减退"
+            }
+        },
+        {
+            "id": "e6383e61-2df5-44d7-b75a-b2054b0bc25d",
+            "label": "体检大类",
+            "properties": {
+                "name": "裂隙灯下眼底检查",
+                "hint": "双眼小瞳孔下视网膜未见明显异常"
+            }
+        },
+        {
+            "id": "6de3e69c-b3fb-444e-ba69-500f0517e39e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "裂隙灯下眼底检查",
+                "result": "双眼小瞳孔下视网膜未见明显异常",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2b75b6c5-79bb-4baa-a159-97d14660e78c",
+            "label": "体检大类",
+            "properties": {
+                "name": "妇检",
+                "hint": "子宫肌瘤可能"
+            }
+        },
+        {
+            "id": "e7aa604f-eae6-4089-bfc5-9f93699ff33e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "妇检",
+                "result": "外阴,阴道:外观正常。阴道通畅,内见少许分泌物,无异味。\n宫颈:光滑。正常大小。\n子宫,附件:子宫饱满,质中,活动,无压痛。双侧附件区内未触及异常包块,无压痛。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "子宫肌瘤可能",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "359e696e-349a-4e55-91c5-d5666fecb45f",
+            "label": "体检大类",
+            "properties": {
+                "name": "液基薄层细胞检查(TCT)",
+                "hint": "未见上皮内病变或恶性病变细胞(NILM)"
+            }
+        },
+        {
+            "id": "7a1ed914-f500-4895-84d5-0e567d539b83",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "液基薄层细胞检查",
+                "result": "未见上皮内病变或恶性病变",
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "514806aa-fbf3-4629-a5a8-f56243b9d32c",
+            "label": "体检大类",
+            "properties": {
+                "name": "人乳头瘤病毒核酸定性(HPV)"
+            }
+        },
+        {
+            "id": "d219b533-30b0-4a11-a229-babb4c9d2fc0",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "人乳头瘤病毒核酸定性 高危型",
+                "result": "HPV:阴性;低危型",
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0bcf8899-3df7-41d6-85e5-16ad0c8adb8e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "结果提示 高危型",
+                "result": "HPV:阴性;低危型 HPV:阴性",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "label": "体检大类",
+            "properties": {
+                "name": "血细胞分析",
+                "hint": "淋巴细胞百分率偏低 单核细胞百分率偏高 单核细胞计数偏高"
+            }
+        },
+        {
+            "id": "5b0bd4fe-fc36-4215-a186-751817588914",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "嗜碱性粒细胞百分率",
+                "result": "0.20",
+                "unit": "%",
+                "reference": "0.00-1.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "22a19c28-e1ba-407b-9f34-1b7aa33798bd",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "嗜碱性粒细胞计数",
+                "result": "0.01",
+                "unit": "*10^9/L",
+                "reference": "0.00-0.06",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7b2cb66d-43d0-4bb4-9c86-b3733620d513",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "嗜酸性粒细胞计数",
+                "result": "0.18",
+                "unit": "*10^9/L",
+                "reference": "0.02-0.52",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1eb3181c-04e7-4ff2-bdfb-c1f0bd26341b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "嗜酸性粒细胞百分率",
+                "result": "2.90",
+                "unit": "%",
+                "reference": "0.40-8.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ef07d007-e408-4e37-a2e4-ad3ea8f52e94",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞压积",
+                "result": "38.4",
+                "unit": "%",
+                "reference": "35.0-45.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b2e97640-6f9d-4408-a04e-0f06ea1c26b3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血红蛋白",
+                "result": "127.00",
+                "unit": "g/L",
+                "reference": "115.00-150.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c055b364-8923-40ab-875d-edc5e4a5563c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "淋巴细胞计数",
+                "result": "1.19",
+                "unit": "*10^9/L",
+                "reference": "1.10-3.20",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "4a0da458-1c94-4e79-a4b5-691834466815",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "淋巴细胞百分率",
+                "result": "19.40",
+                "unit": "%",
+                "reference": "20.00-50.00",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "bd540e6b-2d73-46c5-a820-28c8fb673511",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "平均血红蛋白量",
+                "result": "29.3",
+                "unit": "pg",
+                "reference": "27.0-34.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d1fa2ba7-dc8a-4477-a765-8e875024e5e5",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "平均血红蛋白浓度",
+                "result": "331",
+                "unit": "g/L",
+                "reference": "316-354",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ee1f6835-4afa-4d10-8273-8b47aee2149c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "平均红细胞体积",
+                "result": "88.7",
+                "unit": "fL",
+                "reference": "82.0-100.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "54a4f453-56a8-4c1e-9548-05ed45ba6e6a",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "单核细胞百分率",
+                "result": "10.30",
+                "unit": "%",
+                "reference": "3.00-10.00",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "346c98fc-c087-442f-a935-d1ebdacbcbbe",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "单核细胞计数",
+                "result": "0.63",
+                "unit": "*10^9/L",
+                "reference": "0.10-0.60",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "da28dfca-b8f2-42e6-82e8-ebe850327f40",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "中性粒细胞百分率",
+                "result": "67.20",
+                "unit": "%",
+                "reference": "40.00-75.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0c558088-e052-4417-b1a7-e8728dbdb5ee",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "中性粒细胞计数",
+                "result": "4.11",
+                "unit": "*10^9/L",
+                "reference": "1.80-6.30",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c035fbfd-0e19-4d11-9a93-aeeecc98b25c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血小板计数",
+                "result": "220",
+                "unit": "*10^9/L",
+                "reference": "125-350",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c79bcd9d-97ba-44f9-8e90-d6bd3bf0b83e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞计数",
+                "result": "4.33",
+                "unit": "*10^12/L",
+                "reference": "3.80-5.10",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "cb9ebcbe-3a09-4a0e-9684-b5ca0164f4a8",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞分布宽度",
+                "result": "12.1",
+                "unit": "%",
+                "reference": "11.5-14.5",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "3dd19d33-b37d-48b9-8cfe-105eaa4ec934",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白细胞总数",
+                "result": "6.12",
+                "unit": "*10^9/L",
+                "reference": "3.50-9.50",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "57d1e445-de96-48b4-a785-f795f902c13f",
+            "label": "体检大类",
+            "properties": {
+                "name": "甲型肝炎病毒抗体-IgM"
+            }
+        },
+        {
+            "id": "7f00bd4e-50f5-446c-879e-7a0d187f26b1",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "甲型肝炎病毒抗体-IgM",
+                "result": "4.56",
+                "unit": "AU/mL",
+                "reference": "阴性:<20.00Au/ml; 可疑:20.00-25.00Au/ml; 阳性:>25.00Au/ml",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "102cf1ac-9f2f-4ba6-b544-56c55bf72202",
+            "label": "体检大类",
+            "properties": {
+                "name": "糖化血红蛋白",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "5af0e022-4944-489e-95d6-1e6bf15f2b5d",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖化血红蛋白",
+                "result": "5.50",
+                "unit": "%",
+                "reference": "4.60-6.50",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d2b95888-3060-474f-9f2c-f61b2c8175af",
+            "label": "体检大类",
+            "properties": {
+                "name": "甲胎蛋白测定(AFP)(肝肿瘤)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "0826a866-269a-4abe-8af9-45cb859f7714",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "甲胎蛋白 AFP(化学发光)",
+                "result": "2.17",
+                "unit": "ng/ml",
+                "reference": "0.00-7.29",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ebe87772-781d-47fa-817c-404f83c0eee9",
+            "label": "体检大类",
+            "properties": {
+                "name": "癌胚抗原 CEA",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "4881b3eb-72c1-49c6-a17c-78c2f9946fdb",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "癌胚抗原 CEA(化学发光)",
+                "result": "0.81",
+                "unit": "ng/ml",
+                "reference": "0.00-5.09",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7529dea0-cdb8-43b0-83e2-7bdd011ed94f",
+            "label": "体检大类",
+            "properties": {
+                "name": "CA199",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "fd416ec8-8166-4e70-aebe-c6b3323e71ea",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原 CA19-9(化学发光)",
+                "result": "6.81",
+                "unit": "U/mL",
+                "reference": "0.00-28.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "e6277d70-4a0c-46e9-8e92-cf979594805a",
+            "label": "体检大类",
+            "properties": {
+                "name": "CA125",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "eef82de0-c6df-458c-91a7-0fa41a9a6b32",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原 CA125(化学发光)",
+                "result": "7.45",
+                "unit": "U/mL",
+                "reference": "0.00-35.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2d233503-3f6b-451d-86ad-f2036875d25e",
+            "label": "体检大类",
+            "properties": {
+                "name": "CA153"
+            }
+        },
+        {
+            "id": "41b171df-5606-43a8-98e1-0b94cbd94f6b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原(CA15-3)",
+                "result": "13.15",
+                "unit": "U/mL",
+                "reference": "0.00-28.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "label": "体检大类",
+            "properties": {
+                "name": "甲功七项",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "56fe862b-9b95-4672-85fa-3b3576a02cec",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "游离三碘甲状腺原氨酸 FT3(化学发光)",
+                "result": "2.91",
+                "unit": "pg/mL",
+                "reference": "1.58-3.91",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d1246306-c464-4e78-81ed-73616da8b3f1",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "游离甲状腺素 FT4(化学发光)FT4-Ⅳ",
+                "result": "11.66",
+                "unit": "pmol/L",
+                "reference": "9.01-19.05",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0b793a53-2949-4151-9abe-f4200344fb87",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "抗甲状腺球蛋白抗体(TG)",
+                "result": "0.81",
+                "unit": "IU/mL",
+                "reference": "0.00-5.61",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1596d1f6-4ff1-436a-befa-a8afc6ddc0a1",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "抗甲状腺过氧化物酶抗体(TPO)",
+                "result": "1.11",
+                "unit": "IU/mL",
+                "reference": "0.00-4.11",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "38900e45-2ef3-40c3-a1f4-1bdcb50f9ec7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "总三碘甲状腺素原氨酸 T3(化学发光)",
+                "result": "0.98",
+                "unit": "ng/ml",
+                "reference": "0.35-1.93",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "868d756f-9d40-4c9d-8c43-c4f11ba07a08",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "促甲状腺激素 TSH(化学发光)",
+                "result": "1.1484",
+                "unit": "uIU/mL",
+                "reference": "0.3500-4.9400",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "add7b30d-8824-458b-8664-51dca8b561b8",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "总甲状腺素 T4(化学发光)",
+                "result": "6.48",
+                "unit": "ug/dL",
+                "reference": "4.87-11.72",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "84a4d3af-8849-496f-881e-5a160d029817",
+            "label": "体检大类",
+            "properties": {
+                "name": "肝功能 11 项"
+            }
+        },
+        {
+            "id": "2d4d2be4-7f06-4594-a0a8-32350ff43b43",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白球比",
+                "result": "1.55",
+                "unit": null,
+                "reference": "1.20-2.40",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d7bb5429-ba9c-47fe-a530-a01d01e990cd",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白蛋白 Alb",
+                "result": "45.4",
+                "unit": "g/L",
+                "reference": "40.0-55.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "72553d34-be18-4952-bbd6-122b28b9cecb",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "碱性磷酸酶 ALP",
+                "result": "73",
+                "unit": "U/L",
+                "reference": "50-135",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "432b2231-5ead-4659-b2ab-79dfa65465c6",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "谷丙转氨酶 ALT",
+                "result": "20",
+                "unit": "U/L",
+                "reference": "1-40",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "dc2edccb-6b0b-4b10-983b-01f9e3aa5a3a",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "谷草转氨酶 AST",
+                "result": "23",
+                "unit": "U/L",
+                "reference": "2-35",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d5d4af8a-cd62-43c4-9542-3c091253d9b4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "直接胆红素 DB",
+                "result": "2.0",
+                "unit": "umol/L",
+                "reference": "0.0-6.8",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2415cddd-b365-4d4e-b6a4-fcfeee532050",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "γ-GT",
+                "result": "16",
+                "unit": "U/L",
+                "reference": "7-45",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f5ccee6e-f7e9-4902-b73c-666f5096c639",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "球蛋白 GLB",
+                "result": "29.3",
+                "unit": "g/L",
+                "reference": "20.0-40.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "9682b3b0-bcae-4372-b7f7-8db9ae9f72de",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "间接胆红素",
+                "result": "9.3",
+                "unit": "umol/L",
+                "reference": "1.7-17.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "56f8c6ab-9448-475d-98e6-de197aebcc20",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "总胆红素 TB",
+                "result": "11.3",
+                "unit": "umol/L",
+                "reference": "0.0-21.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "cb84d1bf-9963-45f5-9c85-b5d61e52165b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "总蛋白 TP",
+                "result": "74.7",
+                "unit": "g/L",
+                "reference": "65.0-85.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "fa983f58-393d-4957-949d-bfdf6f926fee",
+            "label": "体检大类",
+            "properties": {
+                "name": "肾功能三项",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "2207574b-5a86-48c9-a6c2-6c19bfbd00af",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿素氮 BUN",
+                "result": "6.12",
+                "unit": "mmol/L",
+                "reference": "2.60-7.50",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f1f42c64-bc96-4d0c-ae8d-830bec8c1d65",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肌酐 Cr",
+                "result": "48.3",
+                "unit": "umol/L",
+                "reference": "41.0-73.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1c47f787-78fb-443a-8aac-9498b6e1b9b4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿酸 UA",
+                "result": "297.6",
+                "unit": "umol/L",
+                "reference": "90.0-420.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "label": "体检大类",
+            "properties": {
+                "name": "血液流变学检验",
+                "hint": "红细胞刚性指数偏高 血浆粘度偏低 全血粘度(30)偏高 全血粘度 (50)偏高 全血粘度(5)偏高 全血粘度(200)偏高 全血高切相对指数偏高 全血低切相对指数偏高 红细胞 变形指数 TK 偏高"
+            }
+        },
+        {
+            "id": "5e4fd434-c73e-4c03-9f41-c7b5265d8301",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞刚性指数",
+                "result": "8.63",
+                "unit": null,
+                "reference": "2.17-6.94",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "746bfc31-1b77-4c3d-a9db-ac1f25a43258",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞聚集指数",
+                "result": "4.06",
+                "unit": null,
+                "reference": "3.19-5.33",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d2ad3850-1dfb-4067-8e0e-6a34c0d747bd",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血沉方程 K 值",
+                "result": "20.14",
+                "unit": null,
+                "reference": "0.00-80.48",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "673be868-598e-4968-b054-e3b24bb7d871",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血浆粘度",
+                "result": "1.02",
+                "unit": "mPa.s",
+                "reference": "1.26-1.70",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "4aa95b68-8eac-47d7-b92e-5a233f77ec58",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "压积",
+                "result": "0.38",
+                "unit": "L/L",
+                "reference": "0.35-0.45",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "37518c49-14a3-4ef7-b598-0c19933969a4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血粘度(1)",
+                "result": "17.76",
+                "unit": "mPa.s",
+                "reference": "13.79-17.91",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "8f12f073-f89b-4b71-a30a-e1be36fda194",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血粘度(5)",
+                "result": "8.71",
+                "unit": "mPa.s",
+                "reference": "6.81-8.53",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b8360d1b-c83c-4650-988c-6248d0909ab1",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血粘度(30)",
+                "result": "5.50",
+                "unit": "mPa.s",
+                "reference": "4.29-5.45",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c17c53e6-457a-4ff0-976f-988f12336f92",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血粘度(50)",
+                "result": "5.07",
+                "unit": "mPa.s",
+                "reference": "3.95-5.01",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5b37e9be-27e6-446c-a213-487dde3cb855",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血粘度(200)",
+                "result": "4.37",
+                "unit": "mPa.s",
+                "reference": "3.36-4.32",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "12772312-05e2-4cdb-ae5e-6ef0aa6eef3f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血高切相对指数",
+                "result": "4.28",
+                "unit": null,
+                "reference": "1.98-3.43",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "48e3727d-e8e3-4110-b30f-086ab7e60c25",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血低切相对指数",
+                "result": "17.38",
+                "unit": null,
+                "reference": "8.11-14.21",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "10c392af-9319-4065-82bd-54c6b663c6c4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血低切还原粘度",
+                "result": "44.04",
+                "unit": "mPa.s",
+                "reference": "26.87~45.57",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "47b7a452-3563-4324-b3e6-fe32d0db9d37",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "全血高切还原粘度",
+                "result": "44.04",
+                "unit": "mPa.s",
+                "reference": "26.87-45.57",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "a5272e4d-f57e-4288-b59f-4f303faed6d8",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞变形指数 TK",
+                "result": "1.16",
+                "unit": null,
+                "reference": "0.53-1.11",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "68e17229-56f6-4b0b-ac6b-93f0be272d5b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血细胞沉降率",
+                "result": "7.00",
+                "unit": "mm/H",
+                "reference": "0.00-20.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "label": "体检大类",
+            "properties": {
+                "name": "血脂 4 项",
+                "hint": "总胆固醇 TC 偏高"
+            }
+        },
+        {
+            "id": "795aa676-10cb-4a7b-81cc-8c3a9307c533",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "总胆固醇 TC",
+                "result": "5.36",
+                "unit": "mmol/L",
+                "reference": "2.80-5.20",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b9dd584f-a506-4041-90b6-d8f6d2e58a32",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "高密度脂蛋白胆固醇",
+                "result": "1.27",
+                "unit": "mmol/L",
+                "reference": "0.90-1.80",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "089fbd3e-73b6-4ac5-ac8d-3952663f2520",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "低密度脂蛋白胆固醇",
+                "result": "3.13",
+                "unit": "mmol/L",
+                "reference": "0.00-3.36",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7f034550-3114-4141-b66c-78bd90951d27",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "甘油三酯 TG",
+                "result": "0.88",
+                "unit": "mmol/L",
+                "reference": "0.28-1.80",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5243cbf8-3a88-4bd3-9838-2d225510bd3c",
+            "label": "体检大类",
+            "properties": {
+                "name": "空腹血糖",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "1f074e24-aecd-42de-86e4-0e7588a0c5b2",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "葡萄糖 GLU",
+                "result": "4.69",
+                "unit": "mmol/L",
+                "reference": "3.80-6.10",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "label": "体检大类",
+            "properties": {
+                "name": "凝血分析(PT+APTT)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "68f7b457-3199-4e18-8e75-403a1468a72b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "活化部分凝血活酶时间(APTT)",
+                "result": "26.20",
+                "unit": "秒",
+                "reference": "22.00-38.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "31baa44e-08a0-4ceb-ae36-b235b1e7e1eb",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "纤维蛋白原(FIB)",
+                "result": "2.91",
+                "unit": "g/L",
+                "reference": "2.00-4.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "027d98f6-9f85-404c-8ed5-9364ddb321b7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "国际标准化比值(INR)",
+                "result": "0.91",
+                "unit": null,
+                "reference": "0.80-1.20",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f0f78e17-5832-4cdf-a60b-add5f3fc2e22",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "凝血酶原时间(PT)",
+                "result": "11.00",
+                "unit": "秒",
+                "reference": "10.00-14.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1be7df6c-b624-460d-b44d-267c132576e8",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "凝血酶原时间活动度(PT%)",
+                "result": "109.10",
+                "unit": "%",
+                "reference": "70.00-200.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "label": "体检大类",
+            "properties": {
+                "name": "乙肝两对半(体检)",
+                "hint": "乙肝两对半 2、4、5 阳性"
+            }
+        },
+        {
+            "id": "02461be3-41cc-4aad-9721-417a68e9aff7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙肝病毒核心抗体(ELISA)",
+                "result": "【17.670】阳性反应性",
+                "unit": "IU/mL",
+                "reference": "0.000~0.350",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "3dff5eab-cb82-4985-8593-3270ea0b0c47",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙肝病毒 E 抗体(ELISA)",
+                "result": "【0.22】阳性反应性",
+                "unit": "IU/mL",
+                "reference": "0.00~0.18",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "365f86c8-419d-4c93-9332-e535525db611",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙肝病毒 E 抗原(ELISA)",
+                "result": "<0.01",
+                "unit": "IU/mL",
+                "reference": "0.000~0.100",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ce2361fa-5b9f-4d63-afcc-c2da97330aaf",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙肝病毒表面抗体(ELISA)",
+                "result": "【19.88】阳性反应性",
+                "unit": "mIU/mL",
+                "reference": "0.00~10.00",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7f6704a4-13a8-49b7-b8cf-d86cf07fee9c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙肝病毒表面抗原(ELISA)",
+                "result": "0.016",
+                "unit": "IU/mL",
+                "reference": "<0.05",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "24323f7f-c303-4d4e-8a44-d7f28764754a",
+            "label": "体检大类",
+            "properties": {
+                "name": "丙肝病毒抗体(ELISA)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "c1ab6488-d53f-4d7a-96f0-4635b527909e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "丙肝肝炎病毒抗体(ELISA)",
+                "result": "<0.01",
+                "unit": "AU/mL",
+                "reference": "0.000-5.000",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "64204b2e-e619-40f2-ace5-607d74edc4e9",
+            "label": "体检大类",
+            "properties": {
+                "name": "梅毒血清学检查",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "9aa39a7c-0a9a-4ef7-9571-ac675f78ad2f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "甲苯胺红不加热血清试验(TRUST 试 验)",
+                "result": "阴性(-)",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5131c090-c969-4b58-a967-13f8d4358ff1",
+            "label": "体检大类",
+            "properties": {
+                "name": "血沉",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "39ad52f5-ecaa-47ae-9962-dad022be8196",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "血沉",
+                "result": "14",
+                "unit": "mm/H",
+                "reference": "0-20",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "90f4f626-695c-4ea1-b174-112b54c14653",
+            "label": "体检大类",
+            "properties": {
+                "name": "抗\"O\"(ASO)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "5fb4cd8d-1783-4a94-a97d-3339bad8c19b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "抗\"O\"(ASO)",
+                "result": "79.47",
+                "unit": "IU/mL",
+                "reference": "0.00-200.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0c812ce9-3a37-4b33-a939-30e51236b81f",
+            "label": "体检大类",
+            "properties": {
+                "name": "类风湿因子(RF)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "a7c4bfd4-1080-4246-87f8-2cbe8c816828",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "类风湿因子(RF)",
+                "result": "<9.31",
+                "unit": "IU/mL",
+                "reference": "0.0-15.0",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "label": "体检大类",
+            "properties": {
+                "name": "白带常规",
+                "hint": "过氧化氢阳性(+) PH 值偏高"
+            }
+        },
+        {
+            "id": "922c0e60-befe-42f7-a95b-88893f1ebf2b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白带滴虫",
+                "result": "阴性(-)",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b822e760-8bea-457a-b4cd-a8ab74ab558c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "霉菌孢子",
+                "result": "阴性(-)",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "28fc0280-037f-482b-8c4c-a652b37cef41",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白带清洁度",
+                "result": "II",
+                "unit": "度",
+                "reference": "I-II",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "8e7beab2-f25c-45a8-8877-bba179bc3ada",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "葡萄糖醛酸酶 β",
+                "result": "阴性",
+                "unit": null,
+                "reference": null,
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "58c791d1-92e4-42d2-9461-a3dca82b5940",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白细胞酯酶",
+                "result": "阴性",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6bffd1ab-fe12-4b88-a0e9-21c2aeabcaff",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "过氧化氢",
+                "result": "阳性(+)",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5b7177a2-6dc1-4f51-a85b-e698e30a74cf",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "PH 值",
+                "result": "5.40",
+                "unit": null,
+                "reference": "3.80-4.50",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b0ddecdc-c14d-4555-9f1b-3b1101a7fdeb",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "唾液酸酐酶",
+                "result": "阴性",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "647fcfc3-44c0-4f72-a791-b9645b7b76c3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乙酰氨基酸葡萄糖苷酶",
+                "result": "阴性",
+                "unit": null,
+                "reference": "阴性(-)",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "59f77f2b-9081-4e12-816d-161683296158",
+            "label": "体检大类",
+            "properties": {
+                "name": "C—反应蛋白测定(CRP)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "f893129c-ef80-4417-b464-ef2d227b8bb3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "C 反应蛋白(CRP)",
+                "result": "2.84",
+                "unit": "mg/L",
+                "reference": "0.00-8.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "3fceebba-b5fe-42a5-983b-1af98932f3bf",
+            "label": "体检大类",
+            "properties": {
+                "name": "HIV(化学发光法)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "d859c9db-5e18-4f40-938a-cbb724d45b4d",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "艾滋病病毒抗体",
+                "result": "0.191",
+                "unit": "AU/mL",
+                "reference": "0.000-1.000",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "label": "体检大类",
+            "properties": {
+                "name": "心肌酶谱",
+                "hint": "α-HBDH 偏高"
+            }
+        },
+        {
+            "id": "5e2ab06a-7d82-4905-a8de-001f26d0a4ed",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肌酸激酶(CK)",
+                "result": "112",
+                "unit": "U/L",
+                "reference": "40-200",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5fe490e0-7e8b-4dfe-8078-7254166cabc3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "CK-MB",
+                "result": "3.11",
+                "unit": "ng/ml",
+                "reference": "0.00-5.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "d24e8df4-1f87-4e5f-84f6-c9a253828628",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "α-HBDH",
+                "result": "228",
+                "unit": "U/L",
+                "reference": "50-220",
+                "abnormal": "是",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0c28570c-5cae-4a4e-ad44-7808b2422351",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肌红蛋白(Mb)",
+                "result": "32.31",
+                "unit": "ng/ml",
+                "reference": "0.00-70.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "77e67bea-9cf8-4475-a9dc-31a0ce046449",
+            "label": "体检大类",
+            "properties": {
+                "name": "同型半胱氨酸(HCY)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "ed805847-738f-4d86-b17d-499518415cf3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "同型半胱氨酸(HCY)",
+                "result": "8.06",
+                "unit": "umol/L",
+                "reference": "5.08-15.39",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "a42cdf83-e168-4aa7-b006-e0915814074b",
+            "label": "体检大类",
+            "properties": {
+                "name": "鳞状上皮细胞癌相关抗原 SCC(门诊)"
+            }
+        },
+        {
+            "id": "ae737e6d-2cde-45f5-974e-b5bc06d355e2",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "scc",
+                "result": "1.88",
+                "unit": "ng/ml",
+                "reference": "0.00-2.50",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "483aa7ce-80ac-40fb-874b-1847a454d445",
+            "label": "体检大类",
+            "properties": {
+                "name": "分院胃泌素-17 检测(门诊)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "a86999d4-4981-4bd4-90e9-78d1b4eecd09",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胃泌素-17",
+                "result": "7.01",
+                "unit": "pmol/L",
+                "reference": "1.70-7.60",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "dd46b744-20ad-4b9c-89fd-21f04cb82b0b",
+            "label": "体检大类",
+            "properties": {
+                "name": "分院胃蛋白酶原二项(门诊)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "62facc62-5b73-4a5f-a98f-4f6f1de11d71",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胃蛋白酶原 I",
+                "result": "76.01",
+                "unit": "ng/ml",
+                "reference": "70.00-240.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "bdfe33b8-c35f-4565-8224-72ea5abf6abc",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胃蛋白酶原 II",
+                "result": "8.02",
+                "unit": "ng/ml",
+                "reference": "0.00-13.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "dcf9490d-8905-400c-8ac6-3cb6aea18afd",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胃蛋白酶原比值",
+                "result": "9.48",
+                "unit": null,
+                "reference": "阴性范围:PGI>=70ng/mL 或 PGI/II>=3;阳性范围:PGI<70ng/mL 且 PGI/II<3",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2a73b859-ebeb-4219-9118-70a000e3ee2c",
+            "label": "体检大类",
+            "properties": {
+                "name": "脂蛋白相关磷脂酶 A2(LP_PLA2)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "d3b78bfe-b912-48ea-9663-0f0b3867ae6f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "脂蛋白相关磷脂酶 A2",
+                "result": "493.61",
+                "unit": "U/L",
+                "reference": "0.00-698.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f37ffd23-b799-444e-b239-117890390329",
+            "label": "体检大类",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA50)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "5123fa7c-357c-4f19-b5bb-4b6eafb75de5",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA50)",
+                "result": "3.35",
+                "unit": "U/mL",
+                "reference": "0.00-25.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "8b44adfd-493f-4156-b02f-9a6a349706c2",
+            "label": "体检大类",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA724)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "6247c7b0-d804-4b0f-a04c-2193956edfe7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA724)",
+                "result": "1.68",
+                "unit": "U/mL",
+                "reference": "0.00-6.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "776fe5cd-82f9-4df8-9ac6-ff6c5b0542fa",
+            "label": "体检大类",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA242)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "b4a14150-8da9-4588-8cff-0131c2a83ea2",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "糖类抗原测定(化学发光法 CA242)",
+                "result": "2.17",
+                "unit": "U/mL",
+                "reference": "0.00-10.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "79296cb0-d8b2-4bb4-b27e-52e5dc3226a4",
+            "label": "体检大类",
+            "properties": {
+                "name": "梅毒螺旋体抗体测定",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "be3ba300-a7e9-4bb8-a6f1-99bf2fdfdb17",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "梅毒螺旋体抗体(ELISA)",
+                "result": "0.390",
+                "unit": "mIU/mL",
+                "reference": "0.000-1.000",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "label": "体检大类",
+            "properties": {
+                "name": "尿液分析"
+            }
+        },
+        {
+            "id": "430b23ba-8c3e-4652-b84d-57e67e67d781",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胆红素",
+                "result": "-",
+                "unit": "mg/dl",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5fa0fcf6-832f-4e66-b005-8bc74e13116a",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "潜血",
+                "result": "-",
+                "unit": "cell/ul",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "68d32045-3585-4446-b2bb-452bb3bc64ff",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿葡萄糖",
+                "result": "-",
+                "unit": "mg/dl",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "cc2db7c7-2f65-4239-8142-f8bd605529f0",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "酮体",
+                "result": "-",
+                "unit": "mg/dl",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1bff2c94-7ba3-4e2b-9ddd-9e452567c7c7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "亚硝酸盐",
+                "result": "-",
+                "unit": null,
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "14726bbc-25d4-4c6e-b990-87bc0cb06af7",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "酸碱度",
+                "result": "5.5",
+                "unit": null,
+                "reference": "4.8-7.4",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0abda968-0338-4f37-b3f3-2cc6dd7fc73f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "蛋白质",
+                "result": "-",
+                "unit": "mg/dl",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "86fb48c9-1bab-4e45-8071-21e28be8504d",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿比重",
+                "result": "1.028",
+                "unit": null,
+                "reference": "1.000-1.030",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "dcaa7d6c-7606-432c-b1c0-ac27f500a420",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿胆原",
+                "result": "normal",
+                "unit": null,
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "2969c3f6-7a5c-421c-86f2-390267a5f60c",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "颜色",
+                "result": "稻黄色",
+                "unit": null,
+                "reference": "黄色",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "32899ac5-3f71-4b5f-9e83-ac7f7156877b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿白细胞酯酶",
+                "result": "-",
+                "unit": "cell/ul",
+                "reference": "-",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "b9e535a6-33d7-4188-a2c3-4d8dec01bf1b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "清晰度",
+                "result": "清亮",
+                "unit": null,
+                "reference": "清亮",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "05baf962-ba18-422c-971c-f75461219c42",
+            "label": "体检大类",
+            "properties": {
+                "name": "尿液沉渣定量分析",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "e1b7c5b2-a043-4eb5-aa36-84d27c2bee9e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "尿结晶",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-10",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "be5bf287-4651-4b5d-9d3b-d83db17af09f",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞数",
+                "result": "6.40",
+                "unit": "/ul",
+                "reference": "0.00-23.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "9f0dedc5-a313-4f59-91ca-69dff3c003be",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "粘液丝",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-1",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ae6c72b4-9f4e-4cd1-8a68-acdf161df26b",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "上皮细胞",
+                "result": "1.80",
+                "unit": "/ul",
+                "reference": "0.00-31.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "7dc4797a-4afd-4b03-a179-addad52cbf12",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "透明度",
+                "result": "清亮",
+                "unit": null,
+                "reference": "清亮",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "849ff601-3491-44bf-82bb-09f14c758d65",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "颜色",
+                "result": "稻黄色",
+                "unit": null,
+                "reference": "黄色",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "17fa144b-23d6-41c1-b6af-8ec381c477e6",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "透明管型",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-1",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0d72d35a-be9c-4810-8b65-ee74024537e6",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "酵母菌",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-1",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f1b28283-ee62-4ace-aebb-ef828877b238",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "非鳞状上皮细胞计数",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-1",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6f5dca55-44f3-4fdd-84a3-95a5b307f254",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "病理管型",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-1",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "dccdf8dd-3dec-44f2-9b70-b7dd6cb8a29e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "鳞状上皮细胞计数",
+                "result": "1",
+                "unit": "/ul",
+                "reference": "0-31",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "13c01759-f411-420b-ad10-b01f8190e1a1",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白细胞团",
+                "result": "-",
+                "unit": "/ul",
+                "reference": "0-23",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "58f3b4d1-018f-462a-b648-57477648f4b4",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "细菌计数",
+                "result": "3.50",
+                "unit": "/ul",
+                "reference": "0.00-1200.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "1de9b991-be07-4045-8b2c-494d40c62a3d",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "管型计数",
+                "result": "0.72",
+                "unit": "/ul",
+                "reference": "0.00-1.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "21fc7747-3e57-4488-8235-bb377ca7db29",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白细胞",
+                "result": "1.30",
+                "unit": "/ul",
+                "reference": "0.00-25.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "765bf479-df16-4f47-87ce-6b436b572415",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "白细胞高倍视野",
+                "result": "0.26",
+                "unit": "/高倍",
+                "reference": "0.00-9.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "6c60514c-5b41-4bd1-95fe-6bb40e69157d",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "红细胞高倍视野",
+                "result": "1.28",
+                "unit": "/高倍",
+                "reference": "0.00-5.00",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "9b9dbee6-d6ba-42b4-b7e2-0de68485c17d",
+            "label": "体检大类",
+            "properties": {
+                "name": "非小细胞肺癌相关抗原 21-1"
+            }
+        },
+        {
+            "id": "cb199182-4660-4343-b8ce-10d942acb6e9",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "非小细胞肺癌抗原(Cyfra21-1)",
+                "result": "1.38",
+                "unit": "ng/ml",
+                "reference": "0.00-3.30",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "bb75051b-19b9-4cb6-995e-c9ab0bb606e9",
+            "label": "体检大类",
+            "properties": {
+                "name": "神经元特异性烯醇化酶 NSE",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "870db3fe-3ef5-435c-ac7f-037e77a7bf79",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "神经特异性烯醇化酶(NSE)",
+                "result": "9.90",
+                "unit": "ng/ml",
+                "reference": "0.00-15.70",
+                "abnormal": "否",
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "df6daf7d-5bec-4e71-971a-f08d0a474bb4",
+            "label": "体检大类",
+            "properties": {
+                "name": "14.肾、输尿管、膀胱(二部位)",
+                "hint": "双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤"
+            }
+        },
+        {
+            "id": "13cfd365-b59e-462a-8dea-412dcb4eca53",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "14.肾、输尿管、膀胱",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留 双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "00b2e4a8-2140-4a66-94cd-e2a499efa665",
+            "label": "体检大类",
+            "properties": {
+                "name": "肝(门脉)胆胰脾",
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留 双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤"
+            }
+        },
+        {
+            "id": "f25cfc82-59ef-4d10-b764-78cfc290d432",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肝(门脉)胆胰脾",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留 双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "549554fe-ccb1-4f15-9b15-c992c499b6fb",
+            "label": "体检大类",
+            "properties": {
+                "name": "乳腺彩超",
+                "hint": "双侧乳腺未见明显占位性病变 BI-RADS 1 级"
+            }
+        },
+        {
+            "id": "f0e514fd-76f4-4518-b555-ab84f7785a8e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "乳腺",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留 双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "71340c42-aa59-42b4-b8b2-a580e24d90b2",
+            "label": "体检大类",
+            "properties": {
+                "name": "经阴道子宫附件",
+                "hint": "绝经后子宫 子宫肌瘤"
+            }
+        },
+        {
+            "id": "a188ec34-0450-4267-8b9e-ae601f33c827",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "经阴道子宫附件",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留 双侧颈动脉内-中膜不均匀增厚伴斑块(单发) 双侧乳腺未见明显占位性病变 BI-RADS 1 级 肝囊肿 胆囊结石 胆囊炎 绝经后子宫 子宫肌瘤",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c1c33694-75a1-4cd0-9c7e-4a2b5e3948dc",
+            "label": "体检大类",
+            "properties": {
+                "name": "甲状腺彩超",
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留"
+            }
+        },
+        {
+            "id": "011dfa13-d5c8-498a-9116-77414717b036",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "甲状腺",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "甲状腺右叶低回声结节 TI-RADS 4a 级 甲状腺囊实性结节 TI-RADS 3 级 甲状腺左叶胶质潴留",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "c6c86568-790c-4ecb-8c57-e97924e896cf",
+            "label": "体检大类",
+            "properties": {
+                "name": "成人心脏彩超",
+                "hint": "左室舒张功能减低"
+            }
+        },
+        {
+            "id": "e349b167-80cc-4525-9364-265aee4f5479",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "成人心脏彩超",
+                "result": "各房室内径正常范围,左室壁厚度正常,运动协调,各节段室壁运动幅度及收缩期增厚率正常,各大血管内径及搏动幅度未见明显异常,各瓣膜形态及启闭未见明显异常,心包腔未见液区。多普勒检查:心内未见明显异常血流信号。TDI 示:二尖瓣环 e 峰 < a 峰。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "心内结构及血流未见明显异常",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "0800f36d-9519-41ca-baea-2e2e8809fe33",
+            "label": "体检大类",
+            "properties": {
+                "name": "颈部动脉彩超",
+                "hint": "双侧颈动脉内-中膜不均匀增厚伴斑块(单发)"
+            }
+        },
+        {
+            "id": "2f444e13-0082-4808-8fb3-9d9c6b99cbb6",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "颈部动脉",
+                "result": "{甲状腺}甲状腺左叶上下径 40mm、前后径 11mm、左右径 15mm,右叶上下径 43mm、前后径 12mm、左右径 14mm,峡 部厚 1.9mm,形态正常,包 膜光整,右叶可见一大小约 11*8mm 的低回声结节,形态 欠规则,右叶可见一直径约 2mm 的无回声团,右叶近峡 部可见一大小约 9*5mm 的囊 实性结节,左叶可见一直径 约 3mm 的囊实性结节,左叶 可见一直径约 3mm 的无回声 团,余实质回声均匀,未见 局限性异常回声,未见明显 异常血流信号。 {乳腺}右乳腺厚 11mm,左乳 腺厚 11mm,双侧乳腺各层组 织显示清楚,回声欠均匀, 未见明显异常血流信号。 {肝脏}肝脏形态、大小正常, 包膜光滑,肝左叶厚 48mm, 肝右叶最大斜径 119mm,肝 内可见数个无回声团,其中 一大小约 14*10mm,余肝实 质回声稍粗,分布欠均匀。 门静脉主干内径不扩张,内 径 10mm,血流通畅,门静脉 流速约 18cm/s。肝内外胆管 未见扩张。 {胆囊}胆囊大小 60*21mm, 胆囊壁毛糙,厚约 3mm,胆 汁透声差,腔内可见多个强 回声团,其中一直径约 8mm。 {胰腺}胰腺大小、形态正常, 胰体厚 10mm,实质回声均匀, 主胰管未见扩张,胰腺周围 未见明显液性回声。 {脾脏}脾脏形态大小正常, 厚约 26mm,实质回声未见异 常。脾静脉未见明显增宽。 {肾脏}双肾形态、大小正常, 包膜完整,右肾大小 93*43mm,皮质厚 6mm;左肾 大小 95*42mm,皮质厚 6mm。 双肾实质回声未见明显异常, 集合系统未见分离。肾周未 见明显液性回声。 {输尿管}双侧输尿管未见明 显扩张。 {膀胱}膀胱充盈欠佳,内未 见明显异常。 {子宫}经阴道超声检查:子 宫形态正常,横径 35mm,前 后径 27mm,纵径 35mm,内膜 居中,显示清晰,厚 2mm。 肌层实质回声不均匀,内可 见多个低回声团,其中一大 小约 17*15mm。 盆腔内未见明显液区回声。 双侧附件区未见明显异常回 声。 双侧颈总动脉内-中膜不均匀 增厚,左侧分叉处前壁探及 1.7*1.8mm 低回声为主的扁 平斑块,双侧各段血流速度 正常。 双侧颈动脉球部(即颈内动 脉起始段)内径对称,双侧 血流速度正常。 双侧颈内动脉近段内径对称, 双侧各段血流速度正常。 双侧颈外动脉血流方向正常, 血流速度正常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "双侧颈动脉内-中膜不均匀增厚伴斑块(单发)",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "ab0ad318-1304-4cae-a676-e02a81458dcb",
+            "label": "体检大类",
+            "properties": {
+                "name": "胸部 CT 平扫+三维重建",
+                "hint": "左肺上叶及右肺中叶纤维灶; 肝脏多发囊性病变;胆囊结石。"
+            }
+        },
+        {
+            "id": "ce10b8da-a7ab-4cc7-b915-7e8ec64e4168",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "胸部 CT 薄层平扫",
+                "result": "左肺上叶及右肺中叶见条索影;纵隔内未见明显肿大淋巴结。双侧胸腔未见积液。心影及大血管形态正常。扫描示肝实质内见多发类圆形低密度影。胆囊腔内见混杂密度影。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "左肺上叶及右肺中叶纤维灶; 肝脏多发囊性病变;胆囊结石。",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "9421c998-a60a-43a6-be38-6c5a7623009d",
+            "label": "体检大类",
+            "properties": {
+                "name": "头部 MRI 平扫",
+                "hint": "头颅 MRI 平扫未见明显异常。"
+            }
+        },
+        {
+            "id": "7affed8c-c632-4db1-a370-ad117fe15937",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "头部 MRI 平扫",
+                "result": "脑实质内未见异常信号。各脑池及脑室未见扩大和闭塞。脑沟脑裂无增宽,中线结构居中。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": "头颅 MRI 平扫未见明显异常。",
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5cdd7591-1777-4f23-9585-1d0b78eb8cc7",
+            "label": "体检大类",
+            "properties": {
+                "name": "电子肠镜"
+            }
+        },
+        {
+            "id": "c3eae435-2a6d-4eec-b189-35273da2528e",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "电子肠镜",
+                "result": null,
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "09421a3b-7319-403b-8a88-d28463004210",
+            "label": "体检大类",
+            "properties": {
+                "name": "麻醉费"
+            }
+        },
+        {
+            "id": "aa8c1a4b-4d6e-45ef-a211-aa7df7f249e9",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "麻醉费",
+                "result": "完成",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "f4cff378-68c9-4442-a9eb-d4bfda0764c5",
+            "label": "体检大类",
+            "properties": {
+                "name": "肝纤维化无创检测",
+                "hint": "详情见附图"
+            }
+        },
+        {
+            "id": "993de8c1-dfbd-4a28-b20d-f12f16856db3",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "肝纤维化无创检测",
+                "result": "详情见附图",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "5b51d5dd-f684-46f5-80da-7dd564ece3d4",
+            "label": "体检大类",
+            "properties": {
+                "name": "经颅多普勒(TCD)",
+                "hint": "未见异常"
+            }
+        },
+        {
+            "id": "33be7fa7-944f-4099-af9e-efdc121727f9",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "经颅多普勒(TCD)",
+                "result": "未见明显异常。",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "12e87794-9563-4452-ac04-6ee4895496ad",
+            "label": "体检大类",
+            "properties": {
+                "name": "骨密度测定",
+                "hint": "骨质减少"
+            }
+        },
+        {
+            "id": "e2a49476-4be1-41d0-9b30-8e9c419b4b10",
+            "label": "子检查项目结果",
+            "properties": {
+                "name": "骨密度测定",
+                "result": "骨质减少",
+                "unit": null,
+                "reference": null,
+                "abnormal": null,
+                "conclusion": null,
+                "hint": null,
+                "date": null,
+                "doctor": null
+            }
+        },
+        {
+            "id": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "label": [
+                "事件",
+                "健康问卷"
+            ],
+            "properties": {
+                "name": "健康状况问卷",
+                "json_link": "dataset/test_user_data/health_questionnaire.json",
+                "time": "2025-05-20"
+            }
+        },
+        {
+            "id": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "label": [
+                "维度",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "基本信息"
+            }
+        },
+        {
+            "id": "80413a5a-96f7-49c9-9caf-e535e0e98eb8",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "年龄12岁"
+            }
+        },
+        {
+            "id": "ed541fc6-a421-479b-b27f-5e7fca52c2e3",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "男性"
+            }
+        },
+        {
+            "id": "975373d9-1450-42de-8868-4cac64dcb2ec",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "身高123cm"
+            }
+        },
+        {
+            "id": "0485e1b0-56ef-4af3-b625-c694d2849dd6",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "体重22kg"
+            }
+        },
+        {
+            "id": "09a11084-6531-447f-9362-16418b0f9430",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "腰围30cm"
+            }
+        },
+        {
+            "id": "8b87a0c3-ed63-4a1e-9fce-4f513ec1993c",
+            "label": [
+                "问卷结果",
+                "基本信息"
+            ],
+            "properties": {
+                "value": "居住在南方农村"
+            }
+        },
+        {
+            "id": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "label": [
+                "维度",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "近期身体状况"
+            }
+        },
+        {
+            "id": "e5ef3e1b-7376-4e6a-b9f1-f35c72ccea03",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常感到疲劳"
+            }
+        },
+        {
+            "id": "d3cafde3-96e7-4a50-8869-23be448bea12",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "记忆力下降注意力不集中"
+            }
+        },
+        {
+            "id": "a016d66c-c759-489a-9e66-b4c89cdd5455",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "情绪焦虑睡眠不佳"
+            }
+        },
+        {
+            "id": "bda6e43b-b1a0-4652-91cf-a2d0f9692a01",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "食欲味觉下降"
+            }
+        },
+        {
+            "id": "d9492310-7573-49ac-a3a5-4375b2119f2e",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "容易感冒感染"
+            }
+        },
+        {
+            "id": "b9244258-7bc0-433c-a1da-a780c716bad8",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "脱发头发干枯"
+            }
+        },
+        {
+            "id": "8259a3d2-3503-4792-93b1-6ac3d804f439",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "指甲易断裂有异常"
+            }
+        },
+        {
+            "id": "dbfc5cf4-4e0b-47fa-9bde-8d2a333d1c4e",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "皮肤干燥粗糙"
+            }
+        },
+        {
+            "id": "6b82a3a0-7054-4e41-ba90-840184534b80",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "伤口愈合慢易淤青"
+            }
+        },
+        {
+            "id": "a1ca537f-7c43-4dbd-b72c-f15701ba33c6",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常腹胀消化不良"
+            }
+        },
+        {
+            "id": "42c0a374-2077-45f5-a9a0-0a2f95d54731",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有便秘或腹泻问题"
+            }
+        },
+        {
+            "id": "39a8addd-10ee-49ec-bc25-43e7012abe9d",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "口腔溃疡反复出现"
+            }
+        },
+        {
+            "id": "e55cfd21-05ed-4668-a87a-f855fc26ce2e",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有肌肉痉挛抽筋"
+            }
+        },
+        {
+            "id": "4ae9cfad-7a10-4805-90bf-ff5d997839a5",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "肌肉酸痛无力"
+            }
+        },
+        {
+            "id": "7ba40a2b-2e2e-4e3e-97ee-000193db42cb",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节疼痛或骨质疏松"
+            }
+        },
+        {
+            "id": "e4f6662d-957e-4e72-8e4c-48aa42f7f457",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "处于哺乳期"
+            }
+        },
+        {
+            "id": "1caf8122-a4b5-4a53-a952-7b1bdeebd0d4",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "经常感到疲劳"
+            }
+        },
+        {
+            "id": "5c1f6e52-da9d-4f0b-b789-689c675bb40e",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "夜间视力差畏光"
+            }
+        },
+        {
+            "id": "5ef7b3be-462e-48cd-b74c-94cfc4e35651",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "视物模糊老花加重"
+            }
+        },
+        {
+            "id": "6d65ce32-300a-4b9d-8043-e9091070cec0",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节疼痛或骨质疏松"
+            }
+        },
+        {
+            "id": "5dbdcb25-e204-42a2-906a-1e38317957b9",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "关节酸痛僵硬"
+            }
+        },
+        {
+            "id": "dd55367f-adab-4c16-8ee6-110aade9a2c4",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有骨裂骨折史"
+            }
+        },
+        {
+            "id": "69c5b276-c2cc-4c65-b8f9-2931c97b73de",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有心血管问题"
+            }
+        },
+        {
+            "id": "5c15bfa6-f6c6-4c20-94d4-16ffa7b7a8b3",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有心慌胸闷乏力"
+            }
+        },
+        {
+            "id": "06c0a086-d666-4a0c-8f00-ebaaa74d0c8d",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "收缩压89mmHg"
+            }
+        },
+        {
+            "id": "20a7b195-3f6c-454c-b99c-76346309911a",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "舒张压89mmHg"
+            }
+        },
+        {
+            "id": "9ddd0d72-1d34-43ee-a389-becd8de155fa",
+            "label": [
+                "问卷结果",
+                "近期身体状况"
+            ],
+            "properties": {
+                "value": "有动脉粥样硬化、缺血性心肌病、快速型心律失常、缓慢型心律失常"
+            }
+        },
+        {
+            "id": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "label": [
+                "维度",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "生活习惯"
+            }
+        },
+        {
+            "id": "c3376ace-c069-4b42-8c85-c94757998799",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "饮食纯素食"
+            }
+        },
+        {
+            "id": "822cfe83-5782-4e5f-9dda-702c581cbcc8",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "用餐自烹或家庭用餐为主"
+            }
+        },
+        {
+            "id": "f928c6f8-f3f1-41a9-abdf-c9876a66fdfd",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "口味偏咸"
+            }
+        },
+        {
+            "id": "978244d6-b7bc-4089-8c8f-4c6f597db8fd",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "进餐规律"
+            }
+        },
+        {
+            "id": "0f8a5c95-b448-497d-af5b-e56660e5e6f4",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常控制食量"
+            }
+        },
+        {
+            "id": "ec483a22-0f21-41b5-bc66-aa42365f1d8e",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "主食摄入几乎不吃"
+            }
+        },
+        {
+            "id": "74a3402c-d6f8-4eee-a54f-a299c9ae807a",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "粗纤维食物几乎不吃"
+            }
+        },
+        {
+            "id": "4529b18a-0a7d-4896-89e6-9cb1cff153d7",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "肉类摄入几乎不吃"
+            }
+        },
+        {
+            "id": "54c6864d-f5e6-468d-a03b-4f3e20b48349",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "动物内脏每周 1–3 次"
+            }
+        },
+        {
+            "id": "48f95651-b2f6-441d-8878-b0669aa5730f",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "淡水鱼虾偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "304595c8-a282-498b-92ab-6f893b98c9a5",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "海产品偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "8b5f9eb6-605d-47dd-8f13-57456c9dfcc9",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "鸡蛋几乎不吃"
+            }
+        },
+        {
+            "id": "ec450b46-83eb-49ee-8e31-eea40614fdb8",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "豆制品偶尔吃（1–2 次/周）"
+            }
+        },
+        {
+            "id": "d0d24343-f733-4c71-b517-25ac8c41db17",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "奶制品几乎不喝"
+            }
+        },
+        {
+            "id": "fbccfd5b-f649-4ab8-85c2-71b468372566",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "绿叶蔬菜几乎不吃"
+            }
+        },
+        {
+            "id": "c01ddeb2-24c6-4a1e-a985-cca7254b5551",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "新鲜水果几乎不吃"
+            }
+        },
+        {
+            "id": "8016bdf3-203f-43ba-8d9c-b602d89d905d",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常吃咸菜、加工食品（香肠、方便面等）、烧烤食品、甜食（蛋糕、甜点、蜜饯等）、膨化食品（薯片、薯条等）、油炸食品（炸鸡、炸串、油条等）"
+            }
+        },
+        {
+            "id": "cd7ddbad-c07e-4b27-a5ca-2d4990e3f75d",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "每天饮水4-6杯(1-1.5L)"
+            }
+        },
+        {
+            "id": "ade1c63a-2ceb-45f5-a059-a60d95838cd0",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "主要饮品是奶茶、咖啡、茶"
+            }
+        },
+        {
+            "id": "fb2074af-d862-4d4e-b63e-43c323d2800c",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "吸烟每周少于1包烟"
+            }
+        },
+        {
+            "id": "4cb4b26e-cb2b-4372-bf6a-218745946b43",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "喝酒几乎天天喝酒"
+            }
+        },
+        {
+            "id": "71680748-90f6-4727-82ad-625d5b41e9ea",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "经常接触二手烟"
+            }
+        },
+        {
+            "id": "eea0c00d-3af1-4e55-9cf2-8f640840bb60",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "运动很少运动"
+            }
+        },
+        {
+            "id": "2c241698-9675-4e1c-80e0-ae1a88c1250b",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "运动强度中度"
+            }
+        },
+        {
+            "id": "164e9fde-9a03-4ed0-8d76-e13ae770d8bb",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "情绪稳定睡眠良好"
+            }
+        },
+        {
+            "id": "afd0bcb9-6e06-4fce-a232-9cca1f97560e",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "情绪稳定睡眠良好"
+            }
+        },
+        {
+            "id": "1073fcf7-e6f0-4bbb-9084-179dcaaebb4b",
+            "label": [
+                "问卷结果",
+                "生活习惯"
+            ],
+            "properties": {
+                "value": "不服用营养补充剂"
+            }
+        },
+        {
+            "id": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "label": [
+                "维度",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "健康背景"
+            }
+        },
+        {
+            "id": "6c79b8f6-36d9-4cc9-840e-e6bb66ae619b",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "有高血脂、高血压"
+            }
+        },
+        {
+            "id": "3e7eb181-34c2-40e4-a166-54ab57e4170e",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "长期服用利尿剂、降压药"
+            }
+        },
+        {
+            "id": "4a594b03-7bb6-427b-af05-4423a44de3f3",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "对紫外线、大豆过敏"
+            }
+        },
+        {
+            "id": "8e7716c9-0f2c-44a8-9d77-78d4b6d583a5",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "缺乏钙、铁、硒"
+            }
+        },
+        {
+            "id": "254331e1-8f63-4689-9f1d-a6aa837f2ecd",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "家族有糖尿病、神经系统疾病（如老年痴呆、帕金森等）"
+            }
+        },
+        {
+            "id": "8af73f1d-d9e1-4da1-8847-bc5fc7246dbb",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "体质易胖易肿"
+            }
+        },
+        {
+            "id": "216403f9-7f32-4e29-815d-dbef972ebf2c",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "性功能下降"
+            }
+        },
+        {
+            "id": "d51efc5f-5d1e-47f1-bef2-8258cf463985",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "身体有增生囊肿结节"
+            }
+        },
+        {
+            "id": "b5d2c2c1-cf9f-4362-a9bf-d6dec940988e",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "慢性胃炎"
+            }
+        },
+        {
+            "id": "9725c447-30d1-4d0a-a75a-3585117cc976",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "对荨麻疹过敏"
+            }
+        },
+        {
+            "id": "f070d282-5b45-4c02-b4a8-aee638d2d3cd",
+            "label": [
+                "问卷结果",
+                "健康背景"
+            ],
+            "properties": {
+                "value": "类风湿关节炎"
+            }
+        }
+    ],
+    "relationships": [
+        {
+            "source": "49a9fa2c-6a43-4f2a-af05-b306dcd602c7",
+            "target": "0da1aa8b-a0ed-455e-ac54-bbd87cbfdd34",
+            "type": "经历了"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "69ed18cb-ae43-4d45-b0e0-31b458a71467",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "b81e0f71-aa8c-41cd-8172-7ec4e422723b",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "4da57ec8-426c-40dd-bdd4-44e8ce052ab4",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "a4d8847d-1744-4074-8418-a13a97dd5b33",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "1b9a364a-9d0b-4988-aaa7-7877fd159c7f",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "d8bf9934-e584-4d36-8ee0-f073d198d674",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "17399f4f-2c7a-4f66-ba58-d58afb6f73d4",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "6dbd8430-593d-4d3c-ac25-506046c40556",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "491c0b64-bb07-4ef1-a843-46fd0a7ba40c",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "f82ffac5-0606-4e00-8b12-453d81167130",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "5f634aa7-7a09-4bfa-9200-9004a7c10d6e",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "6e573970-61e8-4ccb-ae3e-03600a12fd41",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "a01783ff-ea1e-4c32-8ffb-634772d854f2",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "2f2c4f5a-101a-4cea-b4b1-8ec9781a6ae2",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "f783b55a-8011-4c2d-9133-c717d6f5dcf4",
+            "type": "包含"
+        },
+        {
+            "source": "e8731194-3fa1-4584-a859-3015b3ab2bbc",
+            "target": "95c3360a-37be-4d54-be25-c34501e43f61",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "6726c7cd-7585-4a9d-9a0d-59941ab70edc",
+            "type": "包含"
+        },
+        {
+            "source": "6726c7cd-7585-4a9d-9a0d-59941ab70edc",
+            "target": "f93106f3-fbad-4f3a-b270-88fa1c8d647f",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "6fac5d8c-59f6-418c-9744-c55a124a728e",
+            "type": "包含"
+        },
+        {
+            "source": "6fac5d8c-59f6-418c-9744-c55a124a728e",
+            "target": "88de0a63-9851-4e1b-9248-09218922c811",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "754b4f4e-2cf7-4de9-a7da-46a47910db22",
+            "type": "包含"
+        },
+        {
+            "source": "754b4f4e-2cf7-4de9-a7da-46a47910db22",
+            "target": "1b56ff31-a945-4661-a1a8-2dd2ca8692c3",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "2f872802-9ab8-4c37-a755-16657e7d3e9c",
+            "type": "包含"
+        },
+        {
+            "source": "2f872802-9ab8-4c37-a755-16657e7d3e9c",
+            "target": "9f82871a-c682-4168-a5f2-85c84e4147b7",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "f40fcb14-cc91-4a3d-a2d2-c9b70dfbf51e",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "4a24c107-b7f5-4c1d-a160-5dfd4a9a2a79",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "7aa96291-b045-406f-88cc-677e6327680a",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "14f247d5-bd89-4c9c-9702-4e7ab0c91642",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "263b59b7-edc6-4125-87f8-5c0bb7e98961",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "c2a3823b-dac2-4840-b8a6-01f89c4620c7",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "d4245316-3501-4212-a71f-8b103a62ffe9",
+            "type": "包含"
+        },
+        {
+            "source": "e83b2e38-4cec-420e-86d1-6c898c2ef8a1",
+            "target": "f6fb5d6b-d346-4685-aeda-1336b2002323",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "d5bf6076-2c17-47b0-a4bf-4ece347b4f1d",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "e6383e61-2df5-44d7-b75a-b2054b0bc25d",
+            "type": "包含"
+        },
+        {
+            "source": "e6383e61-2df5-44d7-b75a-b2054b0bc25d",
+            "target": "6de3e69c-b3fb-444e-ba69-500f0517e39e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "2b75b6c5-79bb-4baa-a159-97d14660e78c",
+            "type": "包含"
+        },
+        {
+            "source": "2b75b6c5-79bb-4baa-a159-97d14660e78c",
+            "target": "e7aa604f-eae6-4089-bfc5-9f93699ff33e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "359e696e-349a-4e55-91c5-d5666fecb45f",
+            "type": "包含"
+        },
+        {
+            "source": "359e696e-349a-4e55-91c5-d5666fecb45f",
+            "target": "7a1ed914-f500-4895-84d5-0e567d539b83",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "514806aa-fbf3-4629-a5a8-f56243b9d32c",
+            "type": "包含"
+        },
+        {
+            "source": "514806aa-fbf3-4629-a5a8-f56243b9d32c",
+            "target": "d219b533-30b0-4a11-a229-babb4c9d2fc0",
+            "type": "包含"
+        },
+        {
+            "source": "514806aa-fbf3-4629-a5a8-f56243b9d32c",
+            "target": "0bcf8899-3df7-41d6-85e5-16ad0c8adb8e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "5b0bd4fe-fc36-4215-a186-751817588914",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "22a19c28-e1ba-407b-9f34-1b7aa33798bd",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "7b2cb66d-43d0-4bb4-9c86-b3733620d513",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "1eb3181c-04e7-4ff2-bdfb-c1f0bd26341b",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "ef07d007-e408-4e37-a2e4-ad3ea8f52e94",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "b2e97640-6f9d-4408-a04e-0f06ea1c26b3",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "c055b364-8923-40ab-875d-edc5e4a5563c",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "4a0da458-1c94-4e79-a4b5-691834466815",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "bd540e6b-2d73-46c5-a820-28c8fb673511",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "d1fa2ba7-dc8a-4477-a765-8e875024e5e5",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "ee1f6835-4afa-4d10-8273-8b47aee2149c",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "54a4f453-56a8-4c1e-9548-05ed45ba6e6a",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "346c98fc-c087-442f-a935-d1ebdacbcbbe",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "da28dfca-b8f2-42e6-82e8-ebe850327f40",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "0c558088-e052-4417-b1a7-e8728dbdb5ee",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "c035fbfd-0e19-4d11-9a93-aeeecc98b25c",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "c79bcd9d-97ba-44f9-8e90-d6bd3bf0b83e",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "cb9ebcbe-3a09-4a0e-9684-b5ca0164f4a8",
+            "type": "包含"
+        },
+        {
+            "source": "9dc623d9-7b07-4540-a7a5-1b2006b83179",
+            "target": "3dd19d33-b37d-48b9-8cfe-105eaa4ec934",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "57d1e445-de96-48b4-a785-f795f902c13f",
+            "type": "包含"
+        },
+        {
+            "source": "57d1e445-de96-48b4-a785-f795f902c13f",
+            "target": "7f00bd4e-50f5-446c-879e-7a0d187f26b1",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "102cf1ac-9f2f-4ba6-b544-56c55bf72202",
+            "type": "包含"
+        },
+        {
+            "source": "102cf1ac-9f2f-4ba6-b544-56c55bf72202",
+            "target": "5af0e022-4944-489e-95d6-1e6bf15f2b5d",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "d2b95888-3060-474f-9f2c-f61b2c8175af",
+            "type": "包含"
+        },
+        {
+            "source": "d2b95888-3060-474f-9f2c-f61b2c8175af",
+            "target": "0826a866-269a-4abe-8af9-45cb859f7714",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "ebe87772-781d-47fa-817c-404f83c0eee9",
+            "type": "包含"
+        },
+        {
+            "source": "ebe87772-781d-47fa-817c-404f83c0eee9",
+            "target": "4881b3eb-72c1-49c6-a17c-78c2f9946fdb",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "7529dea0-cdb8-43b0-83e2-7bdd011ed94f",
+            "type": "包含"
+        },
+        {
+            "source": "7529dea0-cdb8-43b0-83e2-7bdd011ed94f",
+            "target": "fd416ec8-8166-4e70-aebe-c6b3323e71ea",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "e6277d70-4a0c-46e9-8e92-cf979594805a",
+            "type": "包含"
+        },
+        {
+            "source": "e6277d70-4a0c-46e9-8e92-cf979594805a",
+            "target": "eef82de0-c6df-458c-91a7-0fa41a9a6b32",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "2d233503-3f6b-451d-86ad-f2036875d25e",
+            "type": "包含"
+        },
+        {
+            "source": "2d233503-3f6b-451d-86ad-f2036875d25e",
+            "target": "41b171df-5606-43a8-98e1-0b94cbd94f6b",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "56fe862b-9b95-4672-85fa-3b3576a02cec",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "d1246306-c464-4e78-81ed-73616da8b3f1",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "0b793a53-2949-4151-9abe-f4200344fb87",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "1596d1f6-4ff1-436a-befa-a8afc6ddc0a1",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "38900e45-2ef3-40c3-a1f4-1bdcb50f9ec7",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "868d756f-9d40-4c9d-8c43-c4f11ba07a08",
+            "type": "包含"
+        },
+        {
+            "source": "10b944e3-3053-4af0-923c-eecdfd41373e",
+            "target": "add7b30d-8824-458b-8664-51dca8b561b8",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "84a4d3af-8849-496f-881e-5a160d029817",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "2d4d2be4-7f06-4594-a0a8-32350ff43b43",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "d7bb5429-ba9c-47fe-a530-a01d01e990cd",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "72553d34-be18-4952-bbd6-122b28b9cecb",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "432b2231-5ead-4659-b2ab-79dfa65465c6",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "dc2edccb-6b0b-4b10-983b-01f9e3aa5a3a",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "d5d4af8a-cd62-43c4-9542-3c091253d9b4",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "2415cddd-b365-4d4e-b6a4-fcfeee532050",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "f5ccee6e-f7e9-4902-b73c-666f5096c639",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "9682b3b0-bcae-4372-b7f7-8db9ae9f72de",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "56f8c6ab-9448-475d-98e6-de197aebcc20",
+            "type": "包含"
+        },
+        {
+            "source": "84a4d3af-8849-496f-881e-5a160d029817",
+            "target": "cb84d1bf-9963-45f5-9c85-b5d61e52165b",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "fa983f58-393d-4957-949d-bfdf6f926fee",
+            "type": "包含"
+        },
+        {
+            "source": "fa983f58-393d-4957-949d-bfdf6f926fee",
+            "target": "2207574b-5a86-48c9-a6c2-6c19bfbd00af",
+            "type": "包含"
+        },
+        {
+            "source": "fa983f58-393d-4957-949d-bfdf6f926fee",
+            "target": "f1f42c64-bc96-4d0c-ae8d-830bec8c1d65",
+            "type": "包含"
+        },
+        {
+            "source": "fa983f58-393d-4957-949d-bfdf6f926fee",
+            "target": "1c47f787-78fb-443a-8aac-9498b6e1b9b4",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "5e4fd434-c73e-4c03-9f41-c7b5265d8301",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "746bfc31-1b77-4c3d-a9db-ac1f25a43258",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "d2ad3850-1dfb-4067-8e0e-6a34c0d747bd",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "673be868-598e-4968-b054-e3b24bb7d871",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "4aa95b68-8eac-47d7-b92e-5a233f77ec58",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "37518c49-14a3-4ef7-b598-0c19933969a4",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "8f12f073-f89b-4b71-a30a-e1be36fda194",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "b8360d1b-c83c-4650-988c-6248d0909ab1",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "c17c53e6-457a-4ff0-976f-988f12336f92",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "5b37e9be-27e6-446c-a213-487dde3cb855",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "12772312-05e2-4cdb-ae5e-6ef0aa6eef3f",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "48e3727d-e8e3-4110-b30f-086ab7e60c25",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "10c392af-9319-4065-82bd-54c6b663c6c4",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "47b7a452-3563-4324-b3e6-fe32d0db9d37",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "a5272e4d-f57e-4288-b59f-4f303faed6d8",
+            "type": "包含"
+        },
+        {
+            "source": "99fa7f62-8fff-4bab-a2ec-76b245d69154",
+            "target": "68e17229-56f6-4b0b-ac6b-93f0be272d5b",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "type": "包含"
+        },
+        {
+            "source": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "target": "795aa676-10cb-4a7b-81cc-8c3a9307c533",
+            "type": "包含"
+        },
+        {
+            "source": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "target": "b9dd584f-a506-4041-90b6-d8f6d2e58a32",
+            "type": "包含"
+        },
+        {
+            "source": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "target": "089fbd3e-73b6-4ac5-ac8d-3952663f2520",
+            "type": "包含"
+        },
+        {
+            "source": "d1e36d99-b1f0-492b-a29e-ce34b63216b3",
+            "target": "7f034550-3114-4141-b66c-78bd90951d27",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "5243cbf8-3a88-4bd3-9838-2d225510bd3c",
+            "type": "包含"
+        },
+        {
+            "source": "5243cbf8-3a88-4bd3-9838-2d225510bd3c",
+            "target": "1f074e24-aecd-42de-86e4-0e7588a0c5b2",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "type": "包含"
+        },
+        {
+            "source": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "target": "68f7b457-3199-4e18-8e75-403a1468a72b",
+            "type": "包含"
+        },
+        {
+            "source": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "target": "31baa44e-08a0-4ceb-ae36-b235b1e7e1eb",
+            "type": "包含"
+        },
+        {
+            "source": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "target": "027d98f6-9f85-404c-8ed5-9364ddb321b7",
+            "type": "包含"
+        },
+        {
+            "source": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "target": "f0f78e17-5832-4cdf-a60b-add5f3fc2e22",
+            "type": "包含"
+        },
+        {
+            "source": "05948728-3ac0-4a5e-a3dc-6634945056db",
+            "target": "1be7df6c-b624-460d-b44d-267c132576e8",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "type": "包含"
+        },
+        {
+            "source": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "target": "02461be3-41cc-4aad-9721-417a68e9aff7",
+            "type": "包含"
+        },
+        {
+            "source": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "target": "3dff5eab-cb82-4985-8593-3270ea0b0c47",
+            "type": "包含"
+        },
+        {
+            "source": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "target": "365f86c8-419d-4c93-9332-e535525db611",
+            "type": "包含"
+        },
+        {
+            "source": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "target": "ce2361fa-5b9f-4d63-afcc-c2da97330aaf",
+            "type": "包含"
+        },
+        {
+            "source": "ca36ad00-a643-49c7-9be9-b1309026fd71",
+            "target": "7f6704a4-13a8-49b7-b8cf-d86cf07fee9c",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "24323f7f-c303-4d4e-8a44-d7f28764754a",
+            "type": "包含"
+        },
+        {
+            "source": "24323f7f-c303-4d4e-8a44-d7f28764754a",
+            "target": "c1ab6488-d53f-4d7a-96f0-4635b527909e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "64204b2e-e619-40f2-ace5-607d74edc4e9",
+            "type": "包含"
+        },
+        {
+            "source": "64204b2e-e619-40f2-ace5-607d74edc4e9",
+            "target": "9aa39a7c-0a9a-4ef7-9571-ac675f78ad2f",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "5131c090-c969-4b58-a967-13f8d4358ff1",
+            "type": "包含"
+        },
+        {
+            "source": "5131c090-c969-4b58-a967-13f8d4358ff1",
+            "target": "39ad52f5-ecaa-47ae-9962-dad022be8196",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "90f4f626-695c-4ea1-b174-112b54c14653",
+            "type": "包含"
+        },
+        {
+            "source": "90f4f626-695c-4ea1-b174-112b54c14653",
+            "target": "5fb4cd8d-1783-4a94-a97d-3339bad8c19b",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "0c812ce9-3a37-4b33-a939-30e51236b81f",
+            "type": "包含"
+        },
+        {
+            "source": "0c812ce9-3a37-4b33-a939-30e51236b81f",
+            "target": "a7c4bfd4-1080-4246-87f8-2cbe8c816828",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "922c0e60-befe-42f7-a95b-88893f1ebf2b",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "b822e760-8bea-457a-b4cd-a8ab74ab558c",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "28fc0280-037f-482b-8c4c-a652b37cef41",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "8e7beab2-f25c-45a8-8877-bba179bc3ada",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "58c791d1-92e4-42d2-9461-a3dca82b5940",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "6bffd1ab-fe12-4b88-a0e9-21c2aeabcaff",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "5b7177a2-6dc1-4f51-a85b-e698e30a74cf",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "b0ddecdc-c14d-4555-9f1b-3b1101a7fdeb",
+            "type": "包含"
+        },
+        {
+            "source": "45d5eee1-dacd-41be-8ece-945bd6b7203c",
+            "target": "647fcfc3-44c0-4f72-a791-b9645b7b76c3",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "59f77f2b-9081-4e12-816d-161683296158",
+            "type": "包含"
+        },
+        {
+            "source": "59f77f2b-9081-4e12-816d-161683296158",
+            "target": "f893129c-ef80-4417-b464-ef2d227b8bb3",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "3fceebba-b5fe-42a5-983b-1af98932f3bf",
+            "type": "包含"
+        },
+        {
+            "source": "3fceebba-b5fe-42a5-983b-1af98932f3bf",
+            "target": "d859c9db-5e18-4f40-938a-cbb724d45b4d",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "type": "包含"
+        },
+        {
+            "source": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "target": "5e2ab06a-7d82-4905-a8de-001f26d0a4ed",
+            "type": "包含"
+        },
+        {
+            "source": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "target": "5fe490e0-7e8b-4dfe-8078-7254166cabc3",
+            "type": "包含"
+        },
+        {
+            "source": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "target": "d24e8df4-1f87-4e5f-84f6-c9a253828628",
+            "type": "包含"
+        },
+        {
+            "source": "5012c1d6-7e2c-4233-8858-5f1e3195fe0b",
+            "target": "0c28570c-5cae-4a4e-ad44-7808b2422351",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "77e67bea-9cf8-4475-a9dc-31a0ce046449",
+            "type": "包含"
+        },
+        {
+            "source": "77e67bea-9cf8-4475-a9dc-31a0ce046449",
+            "target": "ed805847-738f-4d86-b17d-499518415cf3",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "a42cdf83-e168-4aa7-b006-e0915814074b",
+            "type": "包含"
+        },
+        {
+            "source": "a42cdf83-e168-4aa7-b006-e0915814074b",
+            "target": "ae737e6d-2cde-45f5-974e-b5bc06d355e2",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "483aa7ce-80ac-40fb-874b-1847a454d445",
+            "type": "包含"
+        },
+        {
+            "source": "483aa7ce-80ac-40fb-874b-1847a454d445",
+            "target": "a86999d4-4981-4bd4-90e9-78d1b4eecd09",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "dd46b744-20ad-4b9c-89fd-21f04cb82b0b",
+            "type": "包含"
+        },
+        {
+            "source": "dd46b744-20ad-4b9c-89fd-21f04cb82b0b",
+            "target": "62facc62-5b73-4a5f-a98f-4f6f1de11d71",
+            "type": "包含"
+        },
+        {
+            "source": "dd46b744-20ad-4b9c-89fd-21f04cb82b0b",
+            "target": "bdfe33b8-c35f-4565-8224-72ea5abf6abc",
+            "type": "包含"
+        },
+        {
+            "source": "dd46b744-20ad-4b9c-89fd-21f04cb82b0b",
+            "target": "dcf9490d-8905-400c-8ac6-3cb6aea18afd",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "2a73b859-ebeb-4219-9118-70a000e3ee2c",
+            "type": "包含"
+        },
+        {
+            "source": "2a73b859-ebeb-4219-9118-70a000e3ee2c",
+            "target": "d3b78bfe-b912-48ea-9663-0f0b3867ae6f",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "f37ffd23-b799-444e-b239-117890390329",
+            "type": "包含"
+        },
+        {
+            "source": "f37ffd23-b799-444e-b239-117890390329",
+            "target": "5123fa7c-357c-4f19-b5bb-4b6eafb75de5",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "8b44adfd-493f-4156-b02f-9a6a349706c2",
+            "type": "包含"
+        },
+        {
+            "source": "8b44adfd-493f-4156-b02f-9a6a349706c2",
+            "target": "6247c7b0-d804-4b0f-a04c-2193956edfe7",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "776fe5cd-82f9-4df8-9ac6-ff6c5b0542fa",
+            "type": "包含"
+        },
+        {
+            "source": "776fe5cd-82f9-4df8-9ac6-ff6c5b0542fa",
+            "target": "b4a14150-8da9-4588-8cff-0131c2a83ea2",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "79296cb0-d8b2-4bb4-b27e-52e5dc3226a4",
+            "type": "包含"
+        },
+        {
+            "source": "79296cb0-d8b2-4bb4-b27e-52e5dc3226a4",
+            "target": "be3ba300-a7e9-4bb8-a6f1-99bf2fdfdb17",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "430b23ba-8c3e-4652-b84d-57e67e67d781",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "5fa0fcf6-832f-4e66-b005-8bc74e13116a",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "68d32045-3585-4446-b2bb-452bb3bc64ff",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "cc2db7c7-2f65-4239-8142-f8bd605529f0",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "1bff2c94-7ba3-4e2b-9ddd-9e452567c7c7",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "14726bbc-25d4-4c6e-b990-87bc0cb06af7",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "0abda968-0338-4f37-b3f3-2cc6dd7fc73f",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "86fb48c9-1bab-4e45-8071-21e28be8504d",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "dcaa7d6c-7606-432c-b1c0-ac27f500a420",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "2969c3f6-7a5c-421c-86f2-390267a5f60c",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "32899ac5-3f71-4b5f-9e83-ac7f7156877b",
+            "type": "包含"
+        },
+        {
+            "source": "49ca413c-11b5-4bb7-a713-18d5aeb614f6",
+            "target": "b9e535a6-33d7-4188-a2c3-4d8dec01bf1b",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "05baf962-ba18-422c-971c-f75461219c42",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "e1b7c5b2-a043-4eb5-aa36-84d27c2bee9e",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "be5bf287-4651-4b5d-9d3b-d83db17af09f",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "9f0dedc5-a313-4f59-91ca-69dff3c003be",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "ae6c72b4-9f4e-4cd1-8a68-acdf161df26b",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "7dc4797a-4afd-4b03-a179-addad52cbf12",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "849ff601-3491-44bf-82bb-09f14c758d65",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "17fa144b-23d6-41c1-b6af-8ec381c477e6",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "0d72d35a-be9c-4810-8b65-ee74024537e6",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "f1b28283-ee62-4ace-aebb-ef828877b238",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "6f5dca55-44f3-4fdd-84a3-95a5b307f254",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "dccdf8dd-3dec-44f2-9b70-b7dd6cb8a29e",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "13c01759-f411-420b-ad10-b01f8190e1a1",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "58f3b4d1-018f-462a-b648-57477648f4b4",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "1de9b991-be07-4045-8b2c-494d40c62a3d",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "21fc7747-3e57-4488-8235-bb377ca7db29",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "765bf479-df16-4f47-87ce-6b436b572415",
+            "type": "包含"
+        },
+        {
+            "source": "05baf962-ba18-422c-971c-f75461219c42",
+            "target": "6c60514c-5b41-4bd1-95fe-6bb40e69157d",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "9b9dbee6-d6ba-42b4-b7e2-0de68485c17d",
+            "type": "包含"
+        },
+        {
+            "source": "9b9dbee6-d6ba-42b4-b7e2-0de68485c17d",
+            "target": "cb199182-4660-4343-b8ce-10d942acb6e9",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "bb75051b-19b9-4cb6-995e-c9ab0bb606e9",
+            "type": "包含"
+        },
+        {
+            "source": "bb75051b-19b9-4cb6-995e-c9ab0bb606e9",
+            "target": "870db3fe-3ef5-435c-ac7f-037e77a7bf79",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "df6daf7d-5bec-4e71-971a-f08d0a474bb4",
+            "type": "包含"
+        },
+        {
+            "source": "df6daf7d-5bec-4e71-971a-f08d0a474bb4",
+            "target": "13cfd365-b59e-462a-8dea-412dcb4eca53",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "00b2e4a8-2140-4a66-94cd-e2a499efa665",
+            "type": "包含"
+        },
+        {
+            "source": "00b2e4a8-2140-4a66-94cd-e2a499efa665",
+            "target": "f25cfc82-59ef-4d10-b764-78cfc290d432",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "549554fe-ccb1-4f15-9b15-c992c499b6fb",
+            "type": "包含"
+        },
+        {
+            "source": "549554fe-ccb1-4f15-9b15-c992c499b6fb",
+            "target": "f0e514fd-76f4-4518-b555-ab84f7785a8e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "71340c42-aa59-42b4-b8b2-a580e24d90b2",
+            "type": "包含"
+        },
+        {
+            "source": "71340c42-aa59-42b4-b8b2-a580e24d90b2",
+            "target": "a188ec34-0450-4267-8b9e-ae601f33c827",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "c1c33694-75a1-4cd0-9c7e-4a2b5e3948dc",
+            "type": "包含"
+        },
+        {
+            "source": "c1c33694-75a1-4cd0-9c7e-4a2b5e3948dc",
+            "target": "011dfa13-d5c8-498a-9116-77414717b036",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "c6c86568-790c-4ecb-8c57-e97924e896cf",
+            "type": "包含"
+        },
+        {
+            "source": "c6c86568-790c-4ecb-8c57-e97924e896cf",
+            "target": "e349b167-80cc-4525-9364-265aee4f5479",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "0800f36d-9519-41ca-baea-2e2e8809fe33",
+            "type": "包含"
+        },
+        {
+            "source": "0800f36d-9519-41ca-baea-2e2e8809fe33",
+            "target": "2f444e13-0082-4808-8fb3-9d9c6b99cbb6",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "ab0ad318-1304-4cae-a676-e02a81458dcb",
+            "type": "包含"
+        },
+        {
+            "source": "ab0ad318-1304-4cae-a676-e02a81458dcb",
+            "target": "ce10b8da-a7ab-4cc7-b915-7e8ec64e4168",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "9421c998-a60a-43a6-be38-6c5a7623009d",
+            "type": "包含"
+        },
+        {
+            "source": "9421c998-a60a-43a6-be38-6c5a7623009d",
+            "target": "7affed8c-c632-4db1-a370-ad117fe15937",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "5cdd7591-1777-4f23-9585-1d0b78eb8cc7",
+            "type": "包含"
+        },
+        {
+            "source": "5cdd7591-1777-4f23-9585-1d0b78eb8cc7",
+            "target": "c3eae435-2a6d-4eec-b189-35273da2528e",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "09421a3b-7319-403b-8a88-d28463004210",
+            "type": "包含"
+        },
+        {
+            "source": "09421a3b-7319-403b-8a88-d28463004210",
+            "target": "aa8c1a4b-4d6e-45ef-a211-aa7df7f249e9",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "f4cff378-68c9-4442-a9eb-d4bfda0764c5",
+            "type": "包含"
+        },
+        {
+            "source": "f4cff378-68c9-4442-a9eb-d4bfda0764c5",
+            "target": "993de8c1-dfbd-4a28-b20d-f12f16856db3",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "5b51d5dd-f684-46f5-80da-7dd564ece3d4",
+            "type": "包含"
+        },
+        {
+            "source": "5b51d5dd-f684-46f5-80da-7dd564ece3d4",
+            "target": "33be7fa7-944f-4099-af9e-efdc121727f9",
+            "type": "包含"
+        },
+        {
+            "source": "28c37930-b008-4e9f-a345-84cc31cf1ef2",
+            "target": "12e87794-9563-4452-ac04-6ee4895496ad",
+            "type": "包含"
+        },
+        {
+            "source": "12e87794-9563-4452-ac04-6ee4895496ad",
+            "target": "e2a49476-4be1-41d0-9b30-8e9c419b4b10",
+            "type": "包含"
+        },
+        {
+            "source": "49a9fa2c-6a43-4f2a-af05-b306dcd602c7",
+            "target": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "type": "经历了"
+        },
+        {
+            "source": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "target": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "80413a5a-96f7-49c9-9caf-e535e0e98eb8",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "ed541fc6-a421-479b-b27f-5e7fca52c2e3",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "975373d9-1450-42de-8868-4cac64dcb2ec",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "0485e1b0-56ef-4af3-b625-c694d2849dd6",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "09a11084-6531-447f-9362-16418b0f9430",
+            "type": "包含"
+        },
+        {
+            "source": "eb10d0f9-7444-474c-816f-5d85e9143c7e",
+            "target": "8b87a0c3-ed63-4a1e-9fce-4f513ec1993c",
+            "type": "包含"
+        },
+        {
+            "source": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "target": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "e5ef3e1b-7376-4e6a-b9f1-f35c72ccea03",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "d3cafde3-96e7-4a50-8869-23be448bea12",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "a016d66c-c759-489a-9e66-b4c89cdd5455",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "bda6e43b-b1a0-4652-91cf-a2d0f9692a01",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "d9492310-7573-49ac-a3a5-4375b2119f2e",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "b9244258-7bc0-433c-a1da-a780c716bad8",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "8259a3d2-3503-4792-93b1-6ac3d804f439",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "dbfc5cf4-4e0b-47fa-9bde-8d2a333d1c4e",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "6b82a3a0-7054-4e41-ba90-840184534b80",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "a1ca537f-7c43-4dbd-b72c-f15701ba33c6",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "42c0a374-2077-45f5-a9a0-0a2f95d54731",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "39a8addd-10ee-49ec-bc25-43e7012abe9d",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "e55cfd21-05ed-4668-a87a-f855fc26ce2e",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "4ae9cfad-7a10-4805-90bf-ff5d997839a5",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "7ba40a2b-2e2e-4e3e-97ee-000193db42cb",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "e4f6662d-957e-4e72-8e4c-48aa42f7f457",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "1caf8122-a4b5-4a53-a952-7b1bdeebd0d4",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "5c1f6e52-da9d-4f0b-b789-689c675bb40e",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "5ef7b3be-462e-48cd-b74c-94cfc4e35651",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "6d65ce32-300a-4b9d-8043-e9091070cec0",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "5dbdcb25-e204-42a2-906a-1e38317957b9",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "dd55367f-adab-4c16-8ee6-110aade9a2c4",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "69c5b276-c2cc-4c65-b8f9-2931c97b73de",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "5c15bfa6-f6c6-4c20-94d4-16ffa7b7a8b3",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "06c0a086-d666-4a0c-8f00-ebaaa74d0c8d",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "20a7b195-3f6c-454c-b99c-76346309911a",
+            "type": "包含"
+        },
+        {
+            "source": "ccb4f19f-d4d9-4fe2-ab6e-a4dde36f396f",
+            "target": "9ddd0d72-1d34-43ee-a389-becd8de155fa",
+            "type": "包含"
+        },
+        {
+            "source": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "target": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "c3376ace-c069-4b42-8c85-c94757998799",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "822cfe83-5782-4e5f-9dda-702c581cbcc8",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "f928c6f8-f3f1-41a9-abdf-c9876a66fdfd",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "978244d6-b7bc-4089-8c8f-4c6f597db8fd",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "0f8a5c95-b448-497d-af5b-e56660e5e6f4",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "ec483a22-0f21-41b5-bc66-aa42365f1d8e",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "74a3402c-d6f8-4eee-a54f-a299c9ae807a",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "4529b18a-0a7d-4896-89e6-9cb1cff153d7",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "54c6864d-f5e6-468d-a03b-4f3e20b48349",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "48f95651-b2f6-441d-8878-b0669aa5730f",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "304595c8-a282-498b-92ab-6f893b98c9a5",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "8b5f9eb6-605d-47dd-8f13-57456c9dfcc9",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "ec450b46-83eb-49ee-8e31-eea40614fdb8",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "d0d24343-f733-4c71-b517-25ac8c41db17",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "fbccfd5b-f649-4ab8-85c2-71b468372566",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "c01ddeb2-24c6-4a1e-a985-cca7254b5551",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "8016bdf3-203f-43ba-8d9c-b602d89d905d",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "cd7ddbad-c07e-4b27-a5ca-2d4990e3f75d",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "ade1c63a-2ceb-45f5-a059-a60d95838cd0",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "fb2074af-d862-4d4e-b63e-43c323d2800c",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "4cb4b26e-cb2b-4372-bf6a-218745946b43",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "71680748-90f6-4727-82ad-625d5b41e9ea",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "eea0c00d-3af1-4e55-9cf2-8f640840bb60",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "2c241698-9675-4e1c-80e0-ae1a88c1250b",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "164e9fde-9a03-4ed0-8d76-e13ae770d8bb",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "afd0bcb9-6e06-4fce-a232-9cca1f97560e",
+            "type": "包含"
+        },
+        {
+            "source": "a264bce9-4d9c-4ec5-8354-13044aa37eb6",
+            "target": "1073fcf7-e6f0-4bbb-9084-179dcaaebb4b",
+            "type": "包含"
+        },
+        {
+            "source": "08453202-0b7f-4e10-875c-379eb68e1ac5",
+            "target": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "6c79b8f6-36d9-4cc9-840e-e6bb66ae619b",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "3e7eb181-34c2-40e4-a166-54ab57e4170e",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "4a594b03-7bb6-427b-af05-4423a44de3f3",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "8e7716c9-0f2c-44a8-9d77-78d4b6d583a5",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "254331e1-8f63-4689-9f1d-a6aa837f2ecd",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "8af73f1d-d9e1-4da1-8847-bc5fc7246dbb",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "216403f9-7f32-4e29-815d-dbef972ebf2c",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "d51efc5f-5d1e-47f1-bef2-8258cf463985",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "b5d2c2c1-cf9f-4362-a9bf-d6dec940988e",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "9725c447-30d1-4d0a-a75a-3585117cc976",
+            "type": "包含"
+        },
+        {
+            "source": "430d16d6-9dc9-4da9-9b8d-14f7226181ca",
+            "target": "f070d282-5b45-4c02-b4a8-aee638d2d3cd",
+            "type": "包含"
+        }
+    ]
+}
